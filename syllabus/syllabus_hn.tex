@@ -1,0 +1,434 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[lmargin=1in,rmargin=1in,bmargin=1in,tmargin=1in]{geometry}
+
+% -------------------
+% Packages
+% -------------------
+\usepackage{
+	amsmath,		% Math Environments
+	enumerate,	    % Enumerate Environments
+	float,			% Force Placements
+	graphicx,		% Use Images
+	hyperref,		% Pointers
+	lastpage,		% Reference Lastpage
+	multicol,		% Use Multi-columns
+	multirow,		% Use Multi-rows
+	titling,		% Title Placement
+	kotex			% 한글 사용
+}
+
+
+% -------------------
+% Hyperref
+% -------------------
+\hypersetup{
+	colorlinks = true,
+  	linkcolor  = blue,
+  	urlcolor   = blue
+}
+\renewcommand\UrlFont{\normalfont}
+
+
+% -------------------
+% Font
+% -------------------
+\usepackage[T1]{fontenc}
+\usepackage{charter}
+
+
+% -------------------
+% Commands
+% -------------------
+\newcommand{\lefthead}[2]{\noindent\textbf{#1}\hfill\\[#2]}
+
+
+% -------------------
+% Course Information
+% -------------------
+
+% Simply fill in the information to fit the current course.
+
+% Instructor
+\newcommand{\instructor}{이민섭}
+% Instructor Office
+\newcommand{\office}{AI관 6층 GCS 세미나실}
+% Instructor Email
+\newcommand{\email}{minseop@gachon.ac.kr}
+% Instructor Website
+\newcommand{\website}{WEBSITE}
+% Course Subject Abbreviation
+% \newcommand{\coursecode}{MAT 999}
+% Course Title
+\newcommand{\coursetitle}{인간 본성의 과학적 이해}
+% Section
+\newcommand{\coursesection}{GCS 창업학기제}
+% Season
+\newcommand{\semester}{2023 학년도 1학기}
+% Office Hours
+\newcommand{\officehours}{TBD}
+% Course Supervisor
+% \newcommand{\coursesupervisor}{SUPERVISOR}
+% Class Dates
+% \newcommand{\classdates}{DATE START -- DATE END}
+% Class Time
+\newcommand{\classtime}{수 14:00 -- 17:00}
+% Classroom
+\newcommand{\classroom}{AI관 6층 GCS 세미나실}
+
+
+% -------------------
+% Header & Footer
+% -------------------
+\usepackage{fancyhdr}
+
+\fancypagestyle{pages}{
+	%Headers
+	\fancyhead[L]{}
+	\fancyhead[C]{}
+	\fancyhead[R]{}
+\renewcommand{\headrulewidth}{0pt}
+	%Footers
+	\fancyfoot[L]{}
+	\fancyfoot[C]{}
+	\fancyfoot[R]{\thepage \,of \pageref*{LastPage}}
+\renewcommand{\footrulewidth}{0.0pt}
+}
+\headheight=0pt
+\footskip=20pt
+
+\pagestyle{pages}
+
+
+% -------------------
+% Title
+% -------------------
+\title{\Large\bfseries \coursetitle \\[0.1cm] \coursesection\ --- \semester}
+\author{}
+\date{}
+\setlength{\droptitle}{-2cm}
+
+
+% -------------------
+% Content
+% -------------------
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+\vspace{-2cm}
+
+
+% Introduction
+\lefthead{강사 정보}{0.3cm}
+\indent \emph{Name:} \instructor \\
+\indent \emph{Office:} \office \\
+\indent \emph{Email:} \email \\
+\indent \emph{Office Hours:} \officehours \\
+[0.3cm]
+
+
+% Class Information
+\lefthead{수업 정보}{0.3cm}
+% \indent \emph{Dates:} \classdates \\
+\indent \emph{Time:} \classtime \\
+\indent \emph{Classroom:} \classroom \\[0.3cm]
+
+
+% Course Description 
+\lefthead{수업 개요}{0.3cm}
+\begin{center}
+	\textbf{인간을 가장 인간답게 만드는 활동이자 인간 독특성 진화의 축소판으로서의 창업!}
+\end{center} 
+
+\noindent 스타트업 창업은 인간의 창의적인 활동 중 하나이자 지속가능한 방법으로 가치를 생산해내는 효과적인 방법이다. 인류는 다른 동물들과 다르게  물리적 도구, 생각 도구들과 과학기술을 발전시켰고, 규범과 조직을 만들어냈다. 작은 아이디어에서 시작해 큰 기업으로 성장해가는 스타트업은 이 모든 것들을 함축적으로 보여주면서도 스스로 또 다시 새로운 가치와 기회를 만들어낸다. 이러한 모든 과정은 방대하게 넓은 '공간'을 얼마나 효율적으로 '탐색'하는지 그리고 적절하게 '목적과 의미'를 찾고 만드는지에 따라 성패가 갈린다. 자연과 인간의 인지 체계 그리고 사회 문화 현상은 진화론이라는 단일한 원리에 의해 설명될 수 있고, 다윈주의 진화론과 인간 본성에 대한 이해는 이러한 공간 탐색과 의미 부여에 길잡이가 되어 줄 것이다.   \\[0.3cm]
+
+
+
+% Course Objectives
+\lefthead{수업 목표}{0.3cm}
+본 강의에서 수강자들은 아래의 사항들을 달성할 수 있어야 한다.\dots
+        \begin{itemize}
+        \item 세상을 이해하는 틀로서 다윈 진화론의 가치에 대해 이해한다. 
+        \item 인간의 사고와 창의적 활동이 일어나는 방식과 생각도구들의 가치에 대해 이해한다.
+        \item 인간의 집단 구성의 원리와 메커니즘에 대해 이해하고 강건한 집단의 조건에 대한 견해를 갖는다.
+        \item 문화적 진화가 어떤 과정으로 일어나고 인간의 독특성과 어떤 관련이 있는지 이해한다.
+        \item 새로운 기술들과 인간의 관계에 대해 이해한다.
+        \item 위 내용들을 종합하여 스타트업 창업과 인간 본성에 대해 이해한다.
+        \end{itemize} \vspace{0.3cm}
+
+
+\newpage
+
+\lefthead{세부 내용}{0.3cm}
+1주차 - 강의 소개(Orientation) \\
+
+\noindent \textbf{다윈 진화론과 그 가치(Darwinian Evolution, DE)}
+        \begin{itemize}
+        \item 2주차 - 자연은 왜 이렇게 되어 있을까? \\
+        장대익(2015), "이것이 진화론이다", 다윈의 식탁, 바다출판사
+        \item 3주차 - 인간은 왜 이런식으로 생각하고 느끼고 행동하는가? \\
+        데이빗 버스 저/이충호 역, 『진화심리학』, 웅진지식하우스, 3장, 8장
+        \item 4주차 - 진화심리학과 생애사 그리고 근본동기이론 \\
+		「우리나라의 초저출산 및 지방소멸 원인과 대책에 관한 진화심리학적 연구」, 『감사원연구보고서』
+		\end{itemize} \vspace{0.3cm}		
+\noindent \textbf{인간의 창의적 활동의 인지과학(Cognition and Psychology, CP)}
+        \begin{itemize}
+        \item 5주차 - 뇌는 어떻게 인간의 창의적 활동을 가능하게 하는가? \\
+        Hawkins, \& 이충호. (2022). 『천 개의 뇌 : 뇌의 새로운 이해 그리고 인류와 기계 지능의 미래』 / 제프 호킨스 지음 ; 이충호 옮김. 1부
+        \item 6주차 - 생각도구들은 어떻게 창의적 사고를 촉진할까? \\
+		Dennett, 노승영, \& 장대익. (2015). 『직관펌프 생각을 열다 : 대니얼 데닛의 77가지 생각도구』 / 대니얼 데닛 지음 ; 노승영 옮김 ; 장대익 해설. 
+		\end{itemize} \vspace{0.3cm}	
+\noindent \textbf{인간 집단의 진화와 집단 활동의 메커니즘(Evolution of Group, EG)}
+        \begin{itemize}
+        \item  7주차 - 진화의 수수께끼, 이타성, 사회성, 도덕성 \\
+		장대익, 『울트라소셜』, 휴머니스트, 2장, 5장, 11장
+        \item 8주차 - 공감의 원심력과 구심력 \\
+        장대익(2022), 『공감의 반경』, 바다출판사, 2장, 6장, 7장
+		\end{itemize} \vspace{0.3cm}
+
+\noindent 9주차 - 중간 시험(Mid-term exam) \\
+
+\noindent \textbf{인간의 문화적 활동의 메커니즘과 문화진화론(Cultural Evolution, CE)}
+        \begin{itemize}
+        \item 10주차 - 문화란 무엇이고 어떻게 전파되는가?\\
+        Henrich, 주명진, \& 이병권. (2019). 호모 사피엔스, 그 성공의 비밀 : 문화는 어떻게 인간의 진화를 주도하며 우리를 더 영리하게 만들어왔는가 / 조지프 헨릭 지음 ; 주명진, 이병권 옮김.
+        \item 11주차 - 인공물의 진화와 디지털 시대의 새로운 가능성 \\
+        이정동. (2017). 인공물의 진화 / 이정동 외 지음.
+		\end{itemize} \vspace{0.3cm}
+\noindent \textbf{새로운 기술과 인간의 관계(New Technology, NT)}
+        \begin{itemize}
+        \item 12주차 - 새로운 기술들은 어떤 방향으로 진화하고 있는가?\\ 
+		\end{itemize} \vspace{0.3cm}	
+\noindent \textbf{스타트업 창업과 인간본성의 관계 (Start-up and Human-nature, SN)}
+        \begin{itemize}
+        \item 13주차 - 인간 독특성 진화의 축소판으로의 창업과 기획(Wrap-up)\\
+		\end{itemize} \vspace{0.3cm}		
+
+\noindent 14주차 - 기말 시험(Final exam) \\
+
+\noindent 15주차 - 과제 발표회 \\
+
+% % Schedule
+% \lefthead{일정 요약}{0.3cm}
+% 	\begin{table}[H]
+% 	\centering
+% 	\begin{tabular}{l|l || l|l} 
+% 	Week of\dots & Sections & Week of\dots & Sections \\ \hline 
+% 	08/27 & 강의 소개(Orientation) & 10/22 & 중간시험(Mid-term)\\
+% 	09/03 & DE 1 & 10/29 & CE 1 \\
+% 	09/10 & DE 2 & 11/05 & CE 2 \\ 
+% 	09/17 & DE 3 & 11/12 & NT 1 \\
+% 	09/24 & CP 1 &  & NT 2 \\
+% 	10/01 & CP 2(과제 1 제출) & 11/26 & SH 1 \\
+% 	10/08 & EG 1 & 12/03 & 기말 시험 \\
+% 	10/15 & EG 2 & 12/10 & 과제 2 발표회
+% 	\end{tabular}
+% 	\end{table} \vspace{0.3cm}
+
+
+
+% Textbook &  Software
+\lefthead{주참고자료 및 활용 소프트웨어}{0.3cm}
+\noindent 주참고자료 
+	\begin{itemize}
+	\item  장대익. (2015). 『다윈의 식탁 : 논쟁으로 맛보는 현대 진화론의 진수 = Darwin's Table』 / 바다출판사.
+	\item 장대익(2022), 『공감의 반경』, 바다출판사
+	\item Buss, \& 이충호. (2012). 『진화심리학 : 마음과 행동을 탐구하는 새로운 과학』, 웅진지식하우스.
+	\item Hawkins, \& 이충호. (2022). 『천 개의 뇌 : 뇌의 새로운 이해 그리고 인류와 기계 지능의 미래』, 이데아.
+	\item Dennett, 노승영, \& 장대익. (2015). 『직관펌프 생각을 열다 : 대니얼 데닛의 77가지 생각도구』, 동아시아.
+	\item Henrich, 주명진, \& 이병권. (2019). 호모 사피엔스, 그 성공의 비밀 : 문화는 어떻게 인간의 진화를 주도하며 우리를 더 영리하게 만들어왔는가, 뿌리와 이파리.
+	\end{itemize} \vspace{0.3cm}	
+
+\noindent 활용 소프트웨어 
+
+	\begin{itemize}
+		\item 전반적인 수업관리 : TBD
+		\item 퀴즈 및 토론 : TBD
+	\end{itemize}
+
+\noindent  \\[0.3cm]
+
+
+
+
+
+% Phone Policy
+% \lefthead{Phone and Device Policies}{0.3cm}
+% \noindent Following the Mathematics Department guidelines, all electronic devices should be turned off and put away during class. Use of such devices can result in dismissal from class. If there is an issue which requires you to need a phone in class, discuss this with your instructor. \\[0.3cm]
+
+
+
+\newpage
+
+% Attendance
+\lefthead{수업 참여}{0.3cm} 
+\noindent 지각에 대해서는 따로 적용하지 않고 수업 시작 10분 후 수업에 참여하는 것은 결석으로 간주한다.
+그러나 개인당 2회에 한해 이유와 상관없이 수업에 참여하지 않아도 불이익은 없다. 즉 2회까지는 결석을 했다고 담당교수에게 이메일을 보내거나 소명하지 않아도 된다. 창업과 관련된 일이든 개인적인 일이든 두 번의 기회가 있고, 그날 수업의 내용을 듣지 못해서 발생하는 문제에 대해서는 개인이 책임을 지게 된다. 증빙이 가능한 사유가 아닌 이유로 결석이 3회가 넘어가게 되면 모든 성적에 관계없이 최종 평점 F를 부여한다. \\
+
+
+% Homeworks 
+\lefthead{과제}{0.3cm}
+\noindent \emph{과제 \#1} \\
+
+% \noindent 인식하지는 못하고 있지만 본인의 생활에서 많이 사용하고 있는 생각도구들을 찾아보고, 일상적인 문제를 효율적으로 풀거나 개선하는 나만의 생각도구(들)을 만들어보시오! \\
+
+\noindent 인간 본성을 이해하는 것이 왜 스타트업 창업에 중요한가에 대한 자신의 생각을 서술하시오! \\
+
+\emph{분량 : A4 2장 이내(본문 폰트 크기 11)}  \\
+
+
+\noindent \emph{과제 \#2}  \\[0.3cm]
+
+\noindent 개인적 생각도구 외에 창업활동에 필요한 생각도구를 고안해보시오.(기존의 생각도구들을 의미있게 조합하는 것도 가능) 생각도구가 인간본성의 측면에서 어떤 의미를 갖고 어떤 원리가 숨어있는지 설명하는 부분이 필요함.\\
+
+\emph{분량 : A4 2장 이내(본문 폰트 크기 11)}  \\
+
+
+
+
+% Quizzes
+\lefthead{퀴즈}{0.3cm}
+\noindent 퀴즈는 수업시간 도중 강의 내용과 연관된 내용으로 제출할 예정 \\[0.3cm]
+
+
+
+
+
+
+% Exams
+\lefthead{시험}{0.3cm}
+\noindent  시험 문제는 강의 중에 다루는 진화론, 진화생물학, 진화심리학 및 사회심리학, 영장류학, 신경과학 등의 내용을 바탕으로 출제될 예정이며 기말 시험은 전 범위로 누적 출제될 예정이다. \\
+[0.3cm]
+
+\newpage
+
+
+% Grading
+\lefthead{성적 산출}{0.3cm}
+\noindent 강의 성적은 아래 비중에 따라 계산된다.
+	\begin{table}[H]
+	\centering
+	\begin{tabular}{ll}
+        중간 시험(Mid-term) & 20\% \\
+        과제 1(Essay) & 10\% \\
+        퀴즈 & 20\% \\
+        과제 2(Essay \& Presentation) & 10\% \\
+        기말 시험(Final Exam) & 40\%
+        \end{tabular}
+        \end{table} \vspace{0.3cm}
+
+
+
+
+
+% Grading Scale
+\lefthead{평점 산출}{0.3cm}
+\noindent 최종 성적은 아래와 같은 스케일에 따라 절대평가로 진행된다. \\
+        \begin{center}
+        \begin{tabular}{|l||c|l||c|} \hline
+        A+ & 93 -- 100 & B-- & 77 -- 79 \\ \hline
+        A & 90 -- 92 & C+ & 73 -- 76 \\ \hline
+        A-- & 87 -- 89 & C & 70 -- 72 \\ \hline
+        B+ & 83 -- 86 & C-- & 60 -- 69 \\ \hline
+        B & 80 -- 82 & D & 0 -- 59 \\
+		 \hline
+        \end{tabular}
+        \end{center} \vspace{0.3cm}
+
+
+
+% 학생지원
+\lefthead{학생 지원}{0.3cm}
+\noindent 수업에 참여하는데 있어 특별한 고려사항이나 어려움이 있는 학생 별도로 담당교수에게 연락을 하거나 장애학생지원센터(031-750-5058)로 문의하기를 바란다. \\
+
+
+
+% Important Dates
+% \lefthead{Important Dates}{0cm}
+% 	\begin{itemize}
+% 	\item Financial Aid/Academic Drop Deadline: DATE
+% 	\item Midterm: DATE
+% 	\item Academic Withdrawal Deadline: DATE
+% 	\item Final Exam: DATEs \\
+% 	\end{itemize}
+
+
+
+
+
+% Respect Policy
+% \lefthead{Respect Policy}{0cm}
+% \noindent I respect your time:
+% \begin{itemize}
+% \item I will come prepared to help you understand the course material and prepare you for quizzes/exams.
+% \item Communication is key: I cannot help you if I do not know what is going on.
+% \item I am here to help you, this is your time, so let me know what I can do to help you succeed.
+% \item If there is something that you would like me to do differently, please, let me know. I am happy to work with you to make class the best it can be.
+% \end{itemize}
+
+% \noindent Respect my time:
+% \begin{itemize}
+% \item Be on time to class.
+% \item Pay attention when I am talking to you.
+% \item Come to class prepared by doing the work and going to office hours when you need help.
+% \end{itemize}
+
+% \noindent Respect each other:
+% \begin{itemize}
+% \item Do not be disruptive. If you need to take a call or text someone, take it outside.
+% \item Work with each other to find solutions. You learn more by helping each other.
+% \item Allow one another to make mistakes. This is an important part of the learning process.
+% \item Use respectful language when talking with one another.
+% \end{itemize} \vspace{0.3cm}
+
+
+
+
+
+% Tips for Success
+% \lefthead{Tips for Success}{0cm}
+% 	\begin{itemize}
+% 	\item Be proactive about your success in the course.
+% 	\item Do not procrastinate! Begin your assignments and studying early!
+% 	\item Attend every class and recitation.
+% 	\item Ask questions whether it is during class, recitation, office hours, at the math clinic or via email to your instructor.
+% 	\item Form a study group! Working together will help you and others better understand the course material as you can work through different difficulties and offer each other clarifications on concepts. 
+% 	\item Do problems! Reading through your notes is not enough. Seek out new problems and work through them carefully. When you are done, check your answer. If you are wrong, examine carefully what misunderstanding occurred and how to avoid it in the future. If you were correct, examine if there was a faster way, check to see if your solution `flowed' and was easy to read, and think over what concepts/computations were used and what `type' of problem the exercise was. 
+% 	\item Always check to be sure that you understand when a statistical computation can be used and possible sources of error or bias in the statistics computed. 
+% 	\item Every time you approach a new concept, carefully think how it could be applied in your own field of study.
+% 	\item Carefully check your code when you use any statistical computation device. \\
+% 	\end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+% Suggested Problems
+% Use https://www.tablesgenerator.com/ to build your table!
+% \lefthead{Suggested Homework Problems}{0.3cm}
+% \noindent These are suggested exercises you try from the textbook. Exercises which are starred are special exercises.
+%         \begin{table}[H]
+%         \begin{tabular}{|l|l|l|} \hline
+%         \multirow{3}{*}{Chapter 6} & Section 6.1 & 6.12, 6.13, 6.20, 6.30, 6.33, 6.36 \\ \cline{2-3} 
+%         & Section 6.2 & 6.52, 6.53, 6.54, 6.58, 6.59, 6.72, 6.74, 6.83--6.89 \\ \cline{2-3} 
+%         & Section 6.4 & 6.118, 6.119, 6.121 \\ \hline
+%         \multirow{2}{*}{Chapter 7} & Section 7.1 & 7.15, 7.18, 7.20--7.22, 7.25$^*$, 7.27$^*$, 7.30, 7.32$^*$, 7.34, 7.38$^*$, 7.41$^*$ \\ \cline{2-3} 
+%         & Section 7.2 & 7.58, 7.60$^*$, 7.67$^*$, 7.68, 7.78, 7.79$^*$, 7.80$^*$, 7.83 \\ \hline
+%         \multirow{2}{*}{Chapter 8} & Section 8.1 & 8.17, 8.18, 8.19, 8.20, 8.32, 8.33, 8.42, 8.44 \\ \cline{2-3} 
+%         & Section 8.2 & 8.58, 8.60, 8.62, 8.63, 8.64--8.66, 8.70 \\ \hline
+%         \multicolumn{2}{|c|}{Chapter 9} & 9.15, 9.17, 9.19, 9.21, 9.28, 9.33, 9.34, 9.44, 9.48, 9.49, 9.52, 9.55 \\ \hline
+%         \multicolumn{2}{|c|}{Chapter 10} & \begin{tabular}[c]{@{}l@{}}10.10$^*$, 10.12$^*$, 10.14$^*$, 10.16$^*$, 10.18$^*$, 10.19$^*$, 10.20$^*$, 10.29, 10.31, 10.32, \\ 10.33, 10.37$^*$, 10.43$^*$, 10.45$^*$, 10.46$^*$, 10.48$^*$, 10.52$^*$, 10.61$^*$\end{tabular} \\ \hline
+%         \multicolumn{2}{|c|}{Chapter 11} & \begin{tabular}[c]{@{}l@{}}11.8, 11.10, 11.18$^*$, 11.27$^*$, 11.28$^*$, 11.29$^*$, 11.30$^*$, 11.35$^*$, 11.36$^*$, \\ 11.38$^*$, 11.42$^*$, 11.47$^*$ \end{tabular} \\ \hline
+%         \multicolumn{2}{|c|}{Chapter 12} & \begin{tabular}[c]{@{}l@{}}12.11, 12.14, 12.15, 12.16, 12.17, 12.19, 12.23, 12.24, 12.26, 12.35, \\ 12.36$^*$, 12.37, 12.39, 12.40, 12.45, 12.46, 12.51$^*$, 12.52$^*$, 12.58, \\ 12.64$^*$, 12.72$^*$, 12.75$^*$ \end{tabular}  \\ \hline
+%         \multicolumn{2}{|c|}{Chapter 13} & \begin{tabular}[c]{@{}l@{}}13.6, 13.7, 13.8, 13.9, 13.10, 13.11$^*$, 13.13, 13.22$^*$, 13.23$^*$, 13.24, 13.40$^*$, \\ 13.41$^*$, 13.42$^*$, 13.43$^*$, 13.44$^*$, 13.47$^*$, 13.56$^*$, 13.58$^*$ \end{tabular}  \\ \hline
+%         \end{tabular}
+%         \end{table}
+
+
+
+\end{document}
