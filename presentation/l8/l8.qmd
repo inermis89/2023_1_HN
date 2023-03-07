@@ -1,0 +1,88 @@
+---
+title: "L1. 창업을 위한 리서치 방법론" 
+subtitle: "데스크/현장/시장/사용자 리서치를 위한 기초방법론"
+author: Minseop Lee(Gachon Cocone School, Gachon University)
+date: 2023-00-00()
+format:
+  revealjs: 
+    slide-number: true
+    # scrollable: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    theme: ../../../template/metropolis.scss 
+    logo: /logo/logo2.png
+    footer: 스타트업 창업 프로젝트
+resources:
+  - demo.pdf
+---
+
+
+## 수업 목표
+
+<!-- 1,2 순서를 바꾸는 것이 좋을 것인가? -->
+
+1. 생물학에서의 궁극인과 근접인이 무엇인지 물리학에서의 인과와 다른점이 무엇인지 이해한다.
+2. 자연선택 이론이 무엇인지 기존의 진화이론들과는 다른 점이 무엇인지 이해한다.
+3. 다윈 진화론이 적용될 수 있는 영역에 대해 이해하고 창업활동에 어떻게 연결될 수 있을지 고민해본다.
+
+---
+
+
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading1.svg){width="450"}
+:::
+
+# section
+
+
+
+
+---
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading2.svg){width="450"}
+:::
+
+
+# section
+
+
+
+
+
+
+
+
+---
+
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading2.svg){width="450"}
+:::
+
+
+# section
+
+
+---
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading2.svg){width="450"}
+:::
+
+
+# 강의 요약
+
+## 강의 요약
+
+
+--- 
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading3.svg){width="450"}
+:::
+
+
+

@@ -2,488 +2,405 @@
 title: "L2. 인간은 왜 이런식으로 생각하고 느끼고 행동하는가?" 
 subtitle: "진화심리학과 인간의 마음 구조"
 author: Minseop Lee(Gachon Cocone School, Gachon University)
-date: 2023-00-00()
+date: ''
 format:
   revealjs: 
-    slide-number: true
-    # scrollable: true
+    slide-number: true 
     chalkboard: 
       buttons: false
     preview-links: auto
-    theme: ../../template/metropolis.scss 
+    theme: ../../../template/metropolis.scss
+    logo: logo/logo2.png
     footer: 인간 본성의 과학적 이해
-resources:
-  - demo.pdf
+---
+
+## 지난 강의 리뷰
+
+
+
+
+## 수업 목표
+
+1. 진화심리학의 발전 과정과 설명 방식에 대해 이해한다.
+2. 진화심리학이 다루는 다양한 인간 본성에 대해 이해한다.
+3. 창업자와 사용자로서의 마음과 행동에 숨어 있는 진화적 원인에 대해 고민해본다. 
+
+---
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading1.svg){width="450"}
+:::
+
+# 진화심리학의 탄생
+
+## ⟪진화심리학⟫
+
+::: {.r-hstack}
+![](https://images.gr-assets.com/authors/1394968546p5/15432.jpg){width="350"}
+
+
+![](https://m.media-amazon.com/images/I/710vmEcYkFL.jpg){width="400"}
+:::
+
+
+
+## 진화심리학의 탄생
+
+- 진화적 사고와 역사에서 일어난 중요한 사건 -> 1강으로 옮겨도 됨
+- 현생 인류의 기원
+- 심리학 분야에서 일어난 기념비적 사건들
+
+
+## 진화적 사고와 역사에서 일어난 중요한 사건 
+
+- 
+
+## 현생 인류의 기원
+
+![](img/klein2000.png)
+
+
+## 네안데르탈인은 왜 멸종했는가?
+
+
+
+## 심리학 분야에서 일어난 기념비적 사건들
+
+- 프로이트, 윌리엄 제임스
+  - 진화론에 큰 영향을 받은 심리학 이론들(본능에 대한 강조)
+- 행동주의
+  - 1920년대부터 약 50년동안 심리학계를 지배, 진화론과 등을 돌림
+  - 본능에 대한 거부, 강화 효과를 통한 학습에 대한 맹신
+- 인지혁명
+  - 가르시아 효과
+  - 인지 현상을 정보처리 과정으로 보는 입장
+
+## 행동주의의 모토 by B.F. Skinner
+
+![](https://loveexpands.com/wp-content/uploads/quotes/vbq/b-f-skinner/give-me-a-child-and-ill-shape-him-into-anything-104128.png)
+
+## 행동주의에 대한 반발
+#### Harry Harlow의 애착 실험(1971)
+![](https://media.sciencephoto.com/c0/26/43/04/c0264304-800px-wm.jpg)
+
+## 인지혁명
+
+- 학습의 기본 법칙이 흔들림
+- 노엄 촘스키는 모든 언어에 통용되는 보편적 **'언어기관'**의 존재를 설득력 있게 주장함.
+- **컴퓨터**와 '정보 처리 은유'의 등장 
+
+> 인지 혁명은 이제 **정보 처리**와 거의 동일해졌다: 인지적 기술은 그 기제가 어떤 종류의 정보를 입력으로 받아들이고, 그 정보를 변화시키는 데 어떤 절차를 사용하며, 그러한 절차가 어떤 종류의 데이터 구조(표현)를 바탕으로 작동하고, 어떤 종류의 표현 혹은 행동을 출력으로 내놓는지 명시한다.(Tooby & Cosmides, 1992, p. 64)
+
+## 진화심리학의 탄생
+
+:::{style="margin-top: 200px; margin-left: 100px; margin-right: 100px;"}
+진화생물학과 심리학의 인지혁명이 만나서 탄생할 진화심리학은 어떤 특징을 가지고 있을까?
+:::
+
+---
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading2.svg){width="450"}
+:::
+
+
+# 진화심리학 기초
+
+## 진화심리학 기초
+
+- 인간 본성의 기원
+- 진화한 심리 기제의 기초
+- 진화 가설 검증 방법
+- 진화 가설 검증을 위한 자료원
+- 적응문제 찾기
+
+## 진화론적 분석의 여러 단계
+
+![](img/ep.svg)
+
+## 인간 본성의 기원{.smaller}
+
+### 진화적 적응 환경(EEA)
+#### Environment of Evolutionary Adaptedness
+
+- 특정 적응을 만들어내는 데 필요한 진화 기간에 일어난 선택 압력들의 통계적 종합을 가리킨다.
+- 각 적응의 진화적 적응 환경은 긴 진화 시간 동안 적응을 빚어내는 데 관여하는 선택의 힘들 혹은 적응 문제들을 가리킨다.
+- 예를 들어, 눈의 진화적 적응 환경은 수억 년에 걸쳐 시각계의 각 요소를 만들어낸 특정 선택 압력들을 가리킨다.
+- 두발 보행의 진화적 적응 환경은 약 440만 년 전으로 거슬러 올라가는 훨씬 짧은 시간에 걸쳐 작용한 선택 압력들을 포함한다.
+- 진화적 적응 환경이 특정 시간이나 장소를 가리키는 게 아니라, 적응을 빚어낸 선택의 힘들을 가리킨다는 사실이다.
+
+## 인간 본성의 기원
+
+|산물|간략한 정의|
+|:-|:--------|
+|적응|진화 기간에 개체군 내에 존재하는 대체 설계보다 생존이나 생식 문제를 해결하는 데 훨씬 도움이 되었기 때문에 자연 선택을 통해 나타난, 유전되고 신뢰할 수 있게 발달하는 특성; 예: 탯줄|
+|부산물|적응 문제를 해결하지 못하고, 기능적 설계르르 갖지 못한 특성: 이것은 기능적 설계를 가진 특성과 함께 '전달'되는데, 우연히 그러한 적응과 짝을 이루었기 때문이다; 예: 배꼽|
+|잡음|우연한 돌연변이, 돌발적이고 전례가 없는 환경 변화, 발달 동안에 일어나는 우연 효과와 같은 힘 때문에 생겨난 임의 효과; 예: 어떤 사람의 특별한 배꼽모양|
+
+: *진화의 세 가지 산물*
+
+
+## 진화 가설을 만들고 검증하는 두 전략{.smaller}
+
+### 전략 1: 이론 주도형 또는 '하향식' 전략
+- 1단계 : 기존의 이론에서 가설을 이끌어낸다. 
+  - 예: 부모의 투자 이론에서 여자는 남자보다 자식에게 의무적인 투자를 더 많이 하기 때문에, 배우자를 선택할 때 더 까다롭거나 차별적인 경향이 있다는 가설을 이끌어 낼 수 있다.
+- 2단계 : 가설을 토대로 한 예측을 검증한다. 
+  - 예: 여자는 남자의 속성과 헌신을 평가하기 위해 섹스에 동의하기 전에 시간을 더 끌고 더 엄격한 기준을 적용할 것이라는 예측을 검증하는 실험을 한다.
+- 3단계 : 경험적 결과가 예측을 확인해주는지 평가한다. 
+  - 예: 여자는 섹스에 동의하기 전에 시간을 더 끌고 더 엄격한 기준을 적용한다(Buss & Schmitt, 1993; Kennair et al. 2009).
+
+## 진화 가설을 만들고 검증하는 두 전략{.smaller}
+
+### 전략 2: 관찰 주도형 또는 '상향식' 전략
+- 1단계 : 알려진 관찰을 바탕으로 적응적 기능에 대한 가설을 개발한다.  
+  - 예: A. 관찰: 남자는 배우자를 선택할 때 여자보다 외모를 훨씬 중요시하는 것처럼 보인다.
+  - B. 가설: 여자의 외모는 조상 남자들에게 생식력에 대한 단서를 제공했다.
+- 2단계 : 가설을 토대로 한 예측을 검증한다. 
+  - 예: 남자가 느끼는 매력의 기준이 여자의 생식력에 대한 단서를 바탕으로 하는지 결정하는 실험을 한다.
+- 3단계 : 경험적 결과가 예측을 확인해주는지 평가한다.
+  - 예: 남자는 생식력과 상관관계가 있다고 알려진 허리 대 엉덩이 비율이 낮은 여자를 매력적으로 느낀다(Dixon et al., 2010; Singh, 1993).
+
+
+## 진화한 심리 기제{.smaller}
+
+- 진화한 심리 기제는 진화의 역사를 통해 그것이 특정 생존 문제나 생식 문제를 반복적으로 해결했기 때문에 그런 형태로 존재한다.
+
+- 진화한 심리 기제는 아주 좁은 범위의 정보만 받아들이도록 설계되었다.
+
+- 진화한 심리 기제의 입력은 생물에게 그 생물이 맞닥뜨린 특정 적응문제를 알려준다.
+
+- 진화한 심리기제의 입력은 결정 규칙을 통해 출력으로 변한다.
+
+- 진화한 심리 기제의 출력은 생리적 활동이나 다른 심리 기제로 보내는 정보나 겉으로 드러나는 행동이 될 수 있다.
+
+- 진화한 심리 기제의 출력은 특정 적응 문제의 해결을 지향한다.
+
+## 진화한 심리 기제의 중요한 성질
+
+- 진화한 심리 기제는 "마음을 그 자연적 관절 부위에서 쪼개는" 비자의적 기준을 제공한다.
+- 진화한 심리 기제는 문제 특정적 경향이 있다.
+- 사람은 진화한 심리 기제를 많이 갖고 있다.
+- 진화한 심리 기제의 특정성, 복잡성, 무수함은 사람에게 행동의 유연성을 제공한다.
+- 영역 특정적 심리 기제를 넘어
+
+## 웨이슨의 선택 과제 실험
+
+![](img/wason1.svg)
+
+
+**한 쪽 면에 짝수가 적혀있으면 반대쪽면은 빨간색이다.**
+
+어떤 카드를 뒤집어야 합니까?
+
+
+## 웨이슨의 선택 과제 실험
+
+![](img/wason2.svg){.fragment}
+
+나이트 클럽에 입장할때 카드를 나눠주는데 한쪽면에는 음료의 종류, 반대쪽 면에는 손님의 나이가 적혀있다.
+
+**맥주를 마시려면 20세 이상이어야 한다.**
+
+누구의 카드를 확인해봐야 합니까?
+
+## 웨이슨의 선택 과제 실험
+
+### 실험결과와 해석
+
+
+- 두 과제의 논리적 구조는 동일하지만 사람들은 사회적 맥락에서 부정을 저지른 사람을 찾아내는 데 특화된 마음의 모듈을 가지고 있다.
+
+- 일명 '사기꾼 탐지 모듈'
+
+## 학습과 문화와 진화한 심리기제
+
+"우리가 관찰하는 사람의 행동은 진화가 아니라 학습과 문화가 그 원인이 아닐까? 사람의 행동은 본성이 아니라 양육의 산물이 아닌가?"
+
+- 본성 대 양육
+- 선천적인 것 대 학습된 것
+- 생물학적인 것 대 문화적인 것
+
+
+## 본성과 양육 논쟁에 대한 진화심리학의 답변 
+
+- 어떤 것에 '학습된' 것이라는 딱지를 붙인다고 해서 설명이 되는 것은 아니다. 그것은 단지 환경의 입력이 그 생물을 어떤 방식으로 변화시킨다고 기술하는 것에 지나지 않는다. 
+
+- '학습된 것'과 '진화한 것'은 서로 경쟁하는 설명이 아니다. 오히려 학습에는 특수하게 진화한 심리 기제가 일어나는 게 필요하다.
+진화한 학습 기제는 종종 본질적으로 특수하다.
+
+---
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading2.svg){width="450"}
+:::
+
+
+# 진화심리학의 주제들
+
+## 진화심리학의 주제들
+
+- 생존 문제
+- 성과 짝짓기 문제
+- 양육과 친족 문제
+- 집단 생활의 문제
+- 지위, 명성, 사회적 지배성
+
+## 생존 문제
+
+- 자연의 적대적인 힘에 대항하기
+- 식량 부족, 독소, 포식동물, 기생충, 질병, 혹독한 기후 등
+
+## 남녀의 서로 다른 능력
+
+- 여성은 공간적 위치 기억을 포함한 과제를 남자보다 잘하며, 남자는 물체의 심적 회전, 항행, 지도 판독을 포함하는 공간 과제를 여자보다 잘함.
+
+::: {.r-hstack}
+![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10508-006-9168-6/MediaObjects/10508_2006_9168_Fig1_HTML.gif?as=webp){width="300"}
+
+![](https://aphantasia.com/wp-content/uploads/15de181d-mental-rotation-blog-graphics_d1-02-1.jpg){width="500"}
+:::
+
+## 인류는 어떻게 음식물을 구했을까?
+
+- 남성: 사냥, 여성: 채집
+
+::: {.r-stack}
+![](https://us.123rf.com/450wm/artinspiring/artinspiring2208/artinspiring220801738/193571637-cavemen-homo-sapiens-hunting-with-a-bow-and-gathering-fruits.jpg?ver=6){width="500"}
+:::
+
+## 안 좋은 물질이 몸에 들어오거나 들어오려 할 때
+
+![](https://img.freepik.com/premium-photo/feeling-disgusted-irritated-tongue-out_1194-528234.jpg?size=626&ext=jpg&ga=GA1.2.1489157905.1675814389&semt=sph)
+
+
+## 살기 좋은 곳
+
+![](https://img.freepik.com/free-photo/beautiful-shot-tree-savanna-plains-with-blue-sky_181624-22049.jpg?w=1060&t=st=1676529040~exp=1676529640~hmac=e9e847396d7b5f7d7f3b6b3cc802ba1da9a5830dae94eb343993d923730691a6)
+
+
+## 성과 짝짓기 문제 
+
+- 부모투자와 성선택
+- 장/단기 짝짓기 전략
+
+
+## Trivers-Willard 가설과 부모투자
+
+- 부모가 좋은 조건에 있고, 짝짓기 게임에서 성공할 가능성이 높은 아들을 낳을 기회가 있을 때에는 더 많은 아들을 낳고 아들에게 더 많은 투자를 하려고 한다.
+- 반대로, 부모가 나쁜 조건에 있거나 투자할 자원이 적을 때에는 딸에게 더 많은 투자를 하려고 한다.
+
+::: {.callout-note}
+## 트리버스-윌라드 가설은 입증되었나?
+일부 연구에서는 효과가 나타났지만 다양한 문화권에서 반복적으로 시행한 결과 트리버스-윌라드 효과가 강건하게 나타나지는 않았다.
+:::
+
+## 부모투자와 성선택 
+
+- 생식 세포의 투자 불균형이 이후 생애사에서 확대 재생산됨
+
+- 정자와 난자의 크기 차이
+  - 난자 : 0.2mm
+  - 정자 : 4~5µm ≅ 0.004mm
+
+- 축구장과 사람의 크기
+  
+
+## 누구와 결혼할 것인가? 누구와 사귈 것인가? 
+
+- 누구와 결혼할 것인가? : 장기적 전략
+- 누구와 사귈 것인가? : 단기적 전략
+
+- 여성과 남성은 정도에 차이가 있지만 모두 두 전략을 활용한다.
+
+
+## 여성과 남성의 장기적 전략
+
+
+
+## 여성과 남성의 단기적 전략
+
+
+:::{.callout-note}
+## 일본의 매독 감염률이 증폭한 이유
+
+데이팅 앱을 원인으로 지목
+:::
+
+
+
+
+## 양육과 친족문제
+
+- 부성불확실성 가설
+- 짝짓기 기회비용 가설
+
+## 유전적 근연도와 부모의 보살핌
+
+
+## 부모와 자식 간 갈등
+
+
+## 포괄 적합도 이론
+
+
+## 친족 인식과 분류
+
+
+## 고모, 이모, 삼촌, 외삼촌, 사촌의 투자
+
+
+## 집단 생활의 문제
+
+
+## 지위, 명성, 사회적 지배성
+
+
+
+
+---
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading2.svg){width="450"}
+:::
+
+
+# section
+
+
+
+
+
+
+
+
 ---
 
 
-## Hello, There
-
-This presentation will show you examples of what you can do with Quarto and [Reveal.js](https://revealjs.com), including:
-
--   Presenting code and LaTeX equations
--   Including computations in slide output
--   Image, video, and iframe backgrounds
--   Fancy transitions and animations
--   Printing to PDF
-
-...and much more
-
-## Pretty Code {auto-animate="true"}
-
--   Over 20 syntax highlighting themes available
--   Default theme optimized for accessibility
-
-``` r
-# Define a server for the Shiny app
-function(input, output) {
-
-  # Fill in the spot we created for a plot
-  output$phonePlot <- renderPlot({
-    # Render a barplot
-  })
-}
-```
-
-::: footer
-Learn more: [Syntax Highlighting](https://quarto.org/docs/output-formats/html-code.html#highlighting)
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading2.svg){width="450"}
 :::
 
-## Code Animations {auto-animate="true"}
 
--   Over 20 syntax highlighting themes available
--   Default theme optimized for accessibility
+# section
 
-``` r
-# Define a server for the Shiny app
-function(input, output) {
 
-  # Fill in the spot we created for a plot
-  output$phonePlot <- renderPlot({
-    # Render a barplot
-    barplot(WorldPhones[,input$region]*1000,
-            main=input$region,
-            ylab="Number of Telephones",
-            xlab="Year")
-  })
-}
-```
+---
 
-::: footer
-Learn more: [Code Animations](https://quarto.org/docs/presentations/revealjs/advanced.html#code-animations)
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading2.svg){width="450"}
 :::
 
-# Section 1
 
-## Line Highlighting
+# 강의 요약
 
--   Highlight specific lines for emphasis
--   Incrementally highlight additional lines
+## 강의 요약
 
-``` {.python code-line-numbers="4-5|7|10"}
-import numpy as np
-import matplotlib.pyplot as plt
-r = np.arange(0, 2, 0.01)
-theta = 2 * np.pi * r
-fig, ax = plt.subplots(subplot_kw={'projection': 'polar'})
-ax.plot(theta, r)
-ax.set_rticks([0.5, 1, 1.5, 2])
-ax.grid(True)
-plt.show()
-```
 
-::: footer
-Learn more: [Line Highlighting](https://quarto.org/docs/presentations/revealjs/#line-highlighting)
+--- 
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading3.svg){width="450"}
 :::
 
-## Executable Code
 
-```{r}
-#| echo: true
-#| fig-width: 10
-#| fig-height: 4.5
-library(ggplot2)
-ggplot(mtcars, aes(hp, mpg, color = am)) +
-  geom_point() +  geom_smooth(formula = y ~ x, method = "loess")
-```
-
-::: footer
-Learn more: [Executable Code](https://quarto.org/docs/presentations/revealjs/#executable-code)
-:::
-
-## LaTeX Equations
-
-[MathJax](https://www.mathjax.org/) rendering of equations to HTML
-
-::: columns
-::: {.column width="37%"}
-``` tex
-\begin{gather*}
-a_1=b_1+c_1\\
-a_2=b_2+c_2-d_2+e_2
-\end{gather*}
-\begin{align}
-a_{11}& =b_{11}&
-  a_{12}& =b_{12}\\
-a_{21}& =b_{21}&
-  a_{22}& =b_{22}+c_{22}
-\end{align}
-```
-:::
-
-::: {.column width="57%"}
-```{=tex}
-\begin{gather*}
-a_1=b_1+c_1\\
-a_2=b_2+c_2-d_2+e_2
-\end{gather*}
-```
-```{=tex}
-\begin{align}
-a_{11}& =b_{11}&
-  a_{12}& =b_{12}\\
-a_{21}& =b_{21}&
-  a_{22}& =b_{22}+c_{22}
-\end{align}
-```
-:::
-:::
-
-::: footer
-Learn more: [LaTeX Equations](https://quarto.org/docs/authoring/markdown-basics.html#equations)
-:::
-
-## Column Layout {.smaller}
-
-Arrange content into columns of varying widths:
-
-::: columns
-::: {.column width="30%"}
-#### Motor Trend Car Road Tests
-
-The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles.
-:::
-
-::: {.column width="3%"}
-:::
-
-::: {.column width="57%"}
-```{r}
-knitr::kable(head(mtcars)[,c("mpg",	"cyl", "disp", "hp", "wt")])
-```
-:::
-:::
-
-::: footer
-Learn more: [Multiple Columns](https://quarto.org/docs/presentations/revealjs/#multiple-columns)
-:::
-
-# Section 2
-
-## Incremental Lists
-
-Lists can optionally be displayed incrementally:
-
-::: incremental
--   First item
--   Second item
--   Third item
-:::
-
-. . .
-
-<br/> Insert pauses to make other types of content display incrementally.
-
-::: footer
-Learn more: [Incremental Lists](https://quarto.org/docs/presentations/revealjs/#incremental-lists)
-:::
-
-## Fragments
-
-Incremental text display and animation with fragments:
-
-<br/>
-
-::: {.fragment .fade-in}
-Fade in
-:::
-
-::: {.fragment .fade-up}
-Slide up while fading in
-:::
-
-::: {.fragment .fade-left}
-Slide left while fading in
-:::
-
-::: {.fragment .fade-in-then-semi-out}
-Fade in then semi out
-:::
-
-. . .
-
-::: {.fragment .strike}
-Strike
-:::
-
-::: {.fragment .highlight-red}
-Highlight red
-:::
-
-::: footer
-Learn more: [Fragments](https://quarto.org/docs/presentations/revealjs/advanced.html#fragments)
-:::
-
-## Slide Backgrounds {background="#43464B"}
-
-Set the `background` attribute on a slide to change the background color (all CSS color formats are supported).
-
-Different background transitions are available via the `background-transition` option.
-
-::: footer
-Learn more: [Slide Backgrounds](https://quarto.org/docs/presentations/revealjs/#color-backgrounds)
-:::
-
-## Media Backgrounds {background="#43464B" background-image="images/milky-way.jpeg"}
-
-You can also use the following as a slide background:
-
--   An image: `background-image`
-
--   A video: `background-video`
-
--   An iframe: `background-iframe`
-
-::: footer
-Learn more: [Media Backgrounds](https://quarto.org/docs/presentations/revealjs/#image-backgrounds)
-:::
-
-## Absolute Position
-
-Position images or other elements at precise locations
-
-![](mini/images/kitten-400-350.jpeg){.absolute top="170" left="30" width="400" height="400"}
-
-![](mini/images/kitten-450-250.jpeg){.absolute .fragment top="150" right="80" width="450"}
-
-![](mini/images/kitten-300-200.jpeg){.absolute .fragment bottom="110" right="130" width="300"}
-
-::: footer
-Learn more: [Absolute Position](https://quarto.org/docs/presentations/revealjs/advanced.html#absolute-position)
-:::
-
-## Auto-Animate {auto-animate="true" auto-animate-easing="ease-in-out"}
-
-Automatically animate matching elements across slides with Auto-Animate.
-
-::: r-hstack
-::: {data-id="box1" auto-animate-delay="0" style="background: #2780e3; width: 200px; height: 150px; margin: 10px;"}
-:::
-
-::: {data-id="box2" auto-animate-delay="0.1" style="background: #3fb618; width: 200px; height: 150px; margin: 10px;"}
-:::
-
-::: {data-id="box3" auto-animate-delay="0.2" style="background: #e83e8c; width: 200px; height: 150px; margin: 10px;"}
-:::
-:::
-
-::: footer
-Learn more: [Auto-Animate](https://quarto.org/docs/presentations/revealjs/advanced.html#auto-animate)
-:::
-
-## Auto-Animate {auto-animate="true" auto-animate-easing="ease-in-out"}
-
-Automatically animate matching elements across slides with Auto-Animate.
-
-::: r-stack
-::: {data-id="box1" style="background: #2780e3; width: 350px; height: 350px; border-radius: 200px;"}
-:::
-
-::: {data-id="box2" style="background: #3fb618; width: 250px; height: 250px; border-radius: 200px;"}
-:::
-
-::: {data-id="box3" style="background: #e83e8c; width: 150px; height: 150px; border-radius: 200px;"}
-:::
-:::
-
-::: footer
-Learn more: [Auto-Animate](https://quarto.org/docs/presentations/revealjs/advanced.html#auto-animate)
-:::
-
-## Slide Transitions {.smaller}
-
-The next few slides will transition using the `slide` transition
-
-| Transition | Description                                                            |
-|------------|------------------------------------------------------------------------|
-| `none`     | No transition (default, switch instantly)                              |
-| `fade`     | Cross fade                                                             |
-| `slide`    | Slide horizontally                                                     |
-| `convex`   | Slide at a convex angle                                                |
-| `concave`  | Slide at a concave angle                                               |
-| `zoom`     | Scale the incoming slide so it grows in from the center of the screen. |
-
-::: footer
-Learn more: [Slide Transitions](https://quarto.org/docs/presentations/revealjs/advanced.html#slide-transitions)
-:::
-
-## Tabsets {.smaller .scrollable transition="slide"}
-
-::: panel-tabset
-### Plot
-
-```{r}
-library(ggplot2)
-ggplot(mtcars, aes(hp, mpg, color = am)) +
-  geom_point() +  geom_smooth(formula = y ~ x, method = "loess")
-```
-
-### Data
-
-```{r}
-knitr::kable(mtcars)
-```
-:::
-
-::: footer
-Learn more: [Tabsets](https://quarto.org/docs/presentations/revealjs/#tabsets)
-:::
-
-## Interactive Slides {.smaller transition="slide"}
-
-Include Jupyter widgets and htmlwidgets in your presentations
-
-::: footer
-Learn more: [Jupyter widgets](https://quarto.org/docs/interactive/widgets/jupyter.html), [htmlwidgets](https://quarto.org/docs/interactive/widgets/htmlwidgets.html)
-:::
-
-## Preview Links
-
-Navigate to hyperlinks without disrupting the flow of your presentation.
-
-Use the `preview-links` option to open links in an iframe on top of your slides. Try clicking the link below for a demonstration:
-
-::: {style="text-align: center; margin-top: 1em"}
-[Matplotlib: Visualization with Python](https://matplotlib.org/){preview-link="true" style="text-align: center"}
-:::
-
-::: footer
-Learn more: [Preview Links](https://quarto.org/docs/presentations/revealjs/presenting.html#preview-links)
-:::
-
-## Themes
-
-10 Built-in Themes (or [create your own](https://quarto.org/docs/presentations/revealjs/themes.html#creating-themes))
-
-::: {layout-ncol="2"}
-![](images/moon.png)
-
-![](images/sky.png)
-:::
-
-::: footer
-Learn more: [Themes](https://quarto.org/docs/presentations/revealjs/themes.html)
-:::
-
-## Easy Navigation
-
-::: {style="margin-bottom: 0.9em;"}
-Quickly jump to other parts of your presentation
-:::
-
-::: {layout="[1, 20]"}
-![](images/presentation-menu.png){width="41"}
-
-Toggle the slide menu with the menu button (bottom left of slide) to go to other slides and access presentation tools.
-:::
-
-You can also press `m` to toggle the menu open and closed.
-
-::: footer
-Learn more: [Navigation](https://quarto.org/docs/presentations/revealjs/presenting.html#navigation-menu)
-:::
-
-## Chalkboard {chalkboard-buttons="true"}
-
-::: {style="margin-bottom: 0.9em;"}
-Free form drawing and slide annotations
-:::
-
-::: {layout="[1, 20]"}
-![](images/presentation-chalkboard.png){width="41"}
-
-Use the chalkboard button at the bottom left of the slide to toggle the chalkboard.
-:::
-
-::: {layout="[1, 20]"}
-![](images/presentation-notes-canvas.png){width="41"}
-
-Use the notes canvas button at the bottom left of the slide to toggle drawing on top of the current slide.
-:::
-
-You can also press `b` to toggle the chalkboard or `c` to toggle the notes canvas.
-
-::: footer
-Learn more: [Chalkboard](https://quarto.org/docs/presentations/revealjs/presenting.html#chalkboard)
-:::
-
-## Point of View
-
-Press `o` to toggle overview mode:
-
-![](images/overview-mode.png){.border}
-
-Hold down the `Alt` key (or `Ctrl` in Linux) and click on any element to zoom towards it---try it now on this slide.
-
-::: footer
-Learn more: [Overview Mode](https://quarto.org/docs/presentations/revealjs/presenting.html#overview-mode), [Slide Zoom](https://quarto.org/docs/presentations/revealjs/presenting.html#slide-zoom)
-:::
-
-## Speaker View
-
-Press `s` (or use the presentation menu) to open speaker view
-
-![](images/speaker-view.png){fig-align="center" style="border: 3px solid #dee2e6;" width="780"}
-
-::: footer
-Learn more: [Speaker View](https://quarto.org/docs/presentations/revealjs/presenting.html#speaker-view)
-:::
-
-## Authoring Tools {.smaller}
-
-Live side-by-side preview for any notebook or text editor including Jupyter and VS Code
-
-::: columns
-::: {.column width="46%"}
-![](images/jupyter-edit.png){.border .border-thick}
-:::
-
-::: {.column width="46%"}
-![](images/jupyter-preview.png){.border .border-thick}
-:::
-:::
-
-::: footer
-Learn more: [Jupyter](https://quarto.org/docs/tools/jupyter-lab.html), [VS Code](https://quarto.org/docs/tools/vscode.html), [Text Editors](https://quarto.org/docs/tools/text-editors.html)
-:::
-
-## Authoring Tools {.smaller}
-
-RStudio includes an integrated presentation preview pane
-
-![](images/rstudio.png){.border width="900"}
-
-::: footer
-Learn more: [RStudio](https://quarto.org/docs/tools/rstudio.html)
-:::
-
-## And More...
-
--   [Touch](https://quarto.org/docs/presentations/revealjs/advanced.html#touch-navigation) optimized (presentations look great on mobile, swipe to navigate slides)
--   [Footer & Logo](https://quarto.org/docs/presentations/revealjs/#footer-logo) (optionally specify custom footer per-slide)
--   [Auto-Slide](https://quarto.org/docs/presentations/revealjs/presenting.html#auto-slide) (step through slides automatically, without any user input)
--   [Multiplex](https://quarto.org/docs/presentations/revealjs/presenting.html#multiplex) (allows your audience to follow the slides of the presentation you are controlling on their own phone, tablet or laptop).
-
-::: footer
-Learn more: [Quarto Presentations](https://quarto.org/docs/presentations/revealjs/)
-:::

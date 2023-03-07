@@ -1,0 +1,164 @@
+---
+title: "L0. 왜 진화론과 인간본성이 중요한가?" 
+subtitle: "수업 개관"
+author: Minseop Lee(Gachon Cocone School, Gachon University)
+date: ''
+format:
+  revealjs: 
+    slide-number: false
+    # scrollable: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    theme: ../../../template/metropolis.scss 
+    logo: logo/logo2.png
+    footer: 인간 본성의 과학적 이해
+---
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading1.svg){width="450"}
+:::
+
+# 왜 진화론과 인간본성이 중요한가?
+
+## 자연은 Problem solver!
+
+![](https://images.unsplash.com/photo-1596477211738-eb8df7843207?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YWRhcHRhdGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60){.absolute top=100 left=50 width="400"}
+
+![](https://images.unsplash.com/photo-1510553756461-22bad37874a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fCVFQyU5QyU4NCVFQyU5RSVBNXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60){.absolute top=100 right=70 width="350"}
+
+![](https://images.unsplash.com/photo-1674574834285-575863d02802?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z2FyZGVuJTIwZWVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60){.absolute bottom=20 left=50 width="350"}
+
+## 자연은 Problem solver!
+
+- 자연의 아름다운 적응들에 익숙해져서 Problem solver라는 생각을 잘 못함.
+- 인간의 마음과 행동은 그러한 적응중에서도 가장 복잡하고 경이로움.
+- 경이로워만 할 것이 아니라 이러한 적응들이 어떤 문제를 풀고 있고 어떻게 나타났는지를 이해하고자 노력해야함.
+- ["Solution" == "Design" == "function"]{.gcs_red} 
+
+## 자연계를 설명하는 유일한 이론{.smaller}
+
+- 다윈 진화론은 이러한 자연계의 복잡성과 다양성을 설명하는 유일한 이론
+
+> **_진화를 이해하지 않고서는 이 신비로운 세상을 이해할 수 없다. 진화는 이 세상을 설명하는 가장 포괄적인 원리다._** _- 에른스트 마이어, 진화생물학자, 『이것이 생물학이다』의 저자_
+
+> **_다윈의 진화론은 지금까지 없었던, 가장 뛰어난 아이디어이다. 우리가 아는 모든 것을 하나로 묶어 주는 단 하나의 과학적 아이디어, 그것이 바로 진화론이다._** _- 데니얼 데닛, 철학자, 『마음의 진화』의 저자_
+
+> **_다윈의 진화론은 우리 존재의 미스터리를 풀 수 있는 '유일한' 이론이다. 우리가 살고 있는 이 행성뿐만 아니라 생명이 발견되는 곳이라면 우주 어디에서도 적용되는 진리이다._** _- 리처드 도킨스, 과학자, 『눈먼 시계공』의 저자_
+
+## 생명의 나무
+
+![](https://evogeneao.s3.amazonaws.com/images/tree_of_life/tree-of-life_1000.png)
+
+
+## 좀 더 가까이 
+
+![](https://evogeneao.s3.amazonaws.com/images/content/trace-fish-common-ancestor_4098.png)
+
+
+## 생명의 나무가 자라나는 과정
+
+- 생명의 나무는 모든 가지가 점진적으로 펼쳐지지만,
+- 실세계에 영향을 주는 요인을 고려해본다면 가장 유망한 가지가 폭발적으로 펼쳐지고(evolve), 그 안에서 다시 유망한 가지가 폭발적으로 펼쳐지는 방식으로 자라남.
+- 인류 또한 생명의 나무의 한 가지로서 떡갈나무와 비교하여 존재론적 우위를 주장할 수는 없지만 인류와 인류가 만들어낸 문화의 절대량이 증가하는 추이를 생각해보라.
+
+:::{.callout-tip}
+2020년에 인간과 인간이 생성해낸 물질의 양이 자연적인 생물의 총량을 넘어섰고, 2040년이면 그 차이가 3배에 이르게 됨.
+:::
+
+## Explosions of possiblilities
+ 
+- 수많은 가능성 ≒ 천 개의 가능성
+- 동서양을 막론하고 천(千, 1000, $10^3$)은 무수히 많음을 뜻함.  
+
+- 연쇄적인 가능성 폭발
+  - 천 개의 적응들(생물학적 폭발) → 뇌라는 기관의 출현 → 천 개의 표상들(인지적 폭발) → 집단의 출현 → 천 개의 생각도구(문화적 폭발) → 법인(제도적 문화)과 컴퓨터(기술적 문화, 전기 등의 기반기술 포함)의 탄생 → 천 개의 스타트업(기업가적 폭발)
+
+## 천 개의 스타트업
+
+![](img/press.png){height="600"}
+
+## 생명의 나무가 자라나는 과정
+
+![](img/explosion.svg){.absolute top=100 right=50 width="600"}
+
+![](img/tree.jpg){.absolute top=100 left=50 height="600"}
+
+
+## 생명의 나무가 자라나는 과정
+
+- 모든 것을 처음부터 다시 시작할 필요가 없음.
+- 하지만 뿌리가 무너지면 다 무너질 것도 염두에 두어야 함.
+- 단단한 기반 아래서 새로운 기회를 여는 것과 단단하지 않아보이는 부분을 찾아 기회를 찾는 것이 필요함.
+
+## 창업을 바라보는 두 시각
+
+::: {.columns}
+::: {.column}
+- 창업을 꿈으로만 바라보는 시각
+  - 창업은 운에 의해 결정된다.
+  - 창업가는 타고난다.
+  - 목적과 비전을 가지고 추진하면 창업에 성공한다.
+  - 관념론적
+
+→ 거시적인 방향만을 중시하고 방법에 대해서는 관심을 기울이지 않음.
+:::
+::: {.column}
+- 창업을 기술로만 바라보는 시각
+  - 창업의 본질은 결국 돈을 버는 것이며,
+  - 그렇기에 창업은 실무 기술들만 배우면 잘 할 수 있다.
+  - 유물론적, 물리학적 세계관
+
+→ 창업을 이끄는 실무적 인과에만 관심을 기울이므로 비전과 방향성에 대한 생각이 약하다 
+:::
+:::
+
+## 창업에 대한 새로운 시각{.smaller}
+
+- 창업에 대한 **생물학적** 시각
+  - 창업 활동은 개인과 집단의 인지활동이다.
+  - 창업 활동은 법인을 생존시키고 성장시키는 활동이다.
+  - 창업은 문제를 해결하는 활동이다
+- 창업에 대한 **진화론적** 시각
+  - 창업은 가능성의 공간에서 좋은 것들을 선택하는 과정이다.
+  - 성장과 생존을 넘어 새로운 기회의 공간을 창출하는 과정이다.
+
+::: callout-important
+## 창업에 대한 새로운 시각
+
+창업 활동은 45억년 자연의 진화 단계에서 가장 최근의 결실이면서도 새로운 진화의 기회를 만들어 낼 수 있는 무궁무진한 가능성의 활동
+:::
+
+## 본 수업의 역할
+
+- 인간본성의 과학적 이해는 창업의 꿈(목표)과 창업의 기술(skill) 사이를 연결해 줄 수 있는 이론적 틀을 제공해주는 수업이라고 할 수 있다. 
+
+- 자연과 인간에 대한 이해를 바탕으로 창업의 본질을 이해하고 problem solver로서의 창업활동을 잘 하기 위해 어떤 고민들이 필요한지 생각해보게 되는 과정이 될 것. 
+
+---
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading2.svg){width="450"}
+:::
+
+
+# 수업 방식
+
+## Active learning!
+
+- 수업은 강의와 퀴즈를 적극적으로 활용하는 방식으로 진행
+  - 고시같은 시험을 준비하기 위한 퀴즈가 아니라 자신이 주제를 얼마나 잘 이해하고 있는지 확인하기 위함. 
+- 수업 시간 도중 토론이나 짧은 글쓰기 과제를 통해서 자신의 의견을 표출하는 기회를 많이 부여할 예정
+- 절대평가이므로 요구사항을 누락하지 않고 참여하기만 하면 좋은 성적을 받을 수 있을 것.
+- 그러니 성적에 매몰되지 말고 개인의 생각을 확장시키고 발전시킬 수 있을지 고민하면 좋을 것 
+
+## 수업에 활용할 도구들
+
+- 카카오 워크 : 수업 관련 공지, 긴급한 설문 등
+- 구글 설문 : 퀴즈
+
+---
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading3.svg){width="450"}
+:::

@@ -1,0 +1,493 @@
+---
+title: "L6. 진화의 수수께끼" 
+subtitle: "이타성, 사회성, 도덕성"
+author: Minseop Lee(Gachon Cocone School, Gachon University)
+date: 2023-00-00()
+format:
+  revealjs: 
+    slide-number: true
+    # scrollable: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    theme: ../../../template/metropolis.scss 
+    footer: 인간 본성의 과학적 이해
+resources:
+  - demo.pdf
+---
+
+### 강의목표
+
+- 좋은 서비스를 기획하기 위한 필수 조건인 좋은 팀의 요건에 대해 알아보자.
+- 서비스 뿐만 아니라 팀이 잘 운영되는지도 새로운 관점에서 바라보는 것이 중요하다.
+
+---
+
+### 시작하기 전에
+
+<iframe src="https://osori.github.io/trust-ko/" width=1000 height=600></iframe>
+
+---
+
+### 좋은 팀을 구성하는데 필요한 것들 
+
+- 팀 내 상호작용과 커뮤니케이션이 갖추어야 할 덕목
+  1. 이타성
+  2. 진실성
+  3. 신속성
+- 각 요소들을 촉진시키거나 저해하는 요인들에 대해서 알아보자.
+
+---
+
+### 1. 이타성
+
+- 이타성의 본질과 협업의 조건을 잘 알아야 협업을 잘 할 수 있고, 갈등을 잘 관리할 수 있다.
+
+- 이타성의 정의
+  - 나의 비용을 들여 타인에게 도움되는 행동을 하는 것
+
+::: {.callout-note}
+Sober, Wilson 은 <타인에게로>에서 '진화적 이타주의'와 '심리학적 이타주의'를 구분하였다.
+::: 
+
+---
+
+### ※ 진화적 이타주의와 심리학적 이타주의의 구분 
+
+|구분|진화적 이기주의|진화적 이타주의|
+|--|--|--|
+|심리학적 에고이즘|1. S는 최대한 많은 식량을 확보하고 싶어한다.|3. S는 요새를 세우는 데 도움을 주고 싶어한다.|
+|심리학적 이타주의|4. S는 자녀의 안녕에 관심을 가진다.|2. S는 집단 구성원들의 안녕에 관심을 가진다.|
+
+---
+
+### 꿀벌, 개미 등 진사회성 동물의 생식 분업
+
+![](https://mblogthumb-phinf.pstatic.net/20161019_172/nie_korea_1476839235018yhmDD_JPEG/shutterstock_129600581.jpg?type=w2)
+
+---
+
+### 미어캣의 알람콜
+
+![](https://innerself.com/images/2019r/c0a1e5cb7d1db549f16e42adadd80fcf.jpg)
+
+
+---
+
+### 나에게 손해가 되는 행동이 어떻게 진화했을까?
+
+- 진화생물학에서 이타성
+  - 꿀벌, 개미 등 진사회성 동물의 생식 분업
+  - 미어캣, 땅다람쥐의 알람콜
+
+---
+
+### 친족선택론(Kin selection) - 피는 물보다 진하다.
+
+- 해밀턴 규칙(Hamilton's rule)
+  - $rB > C$
+  - 이타적 행동에 드는 비용보다 도움을 받는 개체와의 근연도와 개체가 받는 도움의 곱보다 크면 이타적 행동이 살아남을 수 있음.
+
+---
+
+### 해밀턴 규칙
+
+::: {.columns}
+::: {.column width="50%"}
+![](img/hamilton1.png)
+:::
+
+::: {.column width="50%"}
+![](img/hamilton2.png)
+:::
+:::
+
+::: footer
+참고자료 : [[Link]](https://www.ias.ac.in/article/fulltext/reso/005/04/0062-0073)
+:::
+
+---
+
+### 친족선택론(Kin selection) - 피는 물보다 진하다.
+
+> 나는 내 형제 한명 물에 빠진다면 내 목숨을 내놓고 물에 뛰어들지 않겠지만 형제 두명이나 사촌 8명이라면 그렇게 할 것이다. - J.B.S 홀데인
+
+---
+
+### J.B.S 홀데인
+
+![](img/haldane2.png)
+
+::: footer
+참고자료 : [[Link]](https://www.ias.ac.in/article/fulltext/reso/005/04/0062-0073)
+:::
+
+---
+
+### 흡혈박쥐의 피 나누기
+
+![](https://www.thedailypost.kr/news/photo/201911/71126_62358_3340.png)
+
+::: notes
+흡혈박쥐는 2~3일 내에 피를 공급받지 못한다면 죽는다.
+:::
+
+---
+
+### 평판과 이타주의
+
+![](https://images-na.ssl-images-amazon.com/images/I/71GeVtcfl7L.jpg)
+
+---
+
+### 비친족간에 일어나는 이타주의
+
+- 호혜적 이타주의
+- 간접적 호혜주의
+
+---
+
+### 호혜적 이타주의
+
+- 로버트 엑셀로드, "협력의 진화"
+- 죄수의 딜레마와 팃포탯(Tit-for-tat)
+
+::: {.callout-tip}
+이코노미 게임의 종류와 효용성
+- 죄수의 딜레마, 협력 게임, 독재자 게임, 최후통첩게임, 제3자처벌게임, 공공재게임 등 
+:::
+
+::: notes
+- 이기적인 개인으로 이루어진 사회에서 협력이 어떻게 발생하는지를 설명하기 위해 반복적인 죄수의 딜레마 게임에서 최선의 결과를 얻을 수 있는 행동규칙을 찾는 컴퓨터 프로그램 대회를 개최
+- 한 번이 아니라 수백 번의 죄수의 딜레마 게임을 반복할 때 자신의 이익을 극대화하는 최선의 행동규칙은 무엇인가?
+- 수백 명의 경기자들이 컴퓨터로 무작위로 1:1죄수 딜레마 게임을 진행한다. 경기자들 사이의 어떠한 사전적인 합의는 없고, 경기자의 목표는 최고의 합산 점수를 얻는 것이다.
+- 12개 팀의 전문가들이 참여한 1차 대회에서 팃포탯(tit-for-tat) , 즉 ‘눈에는 눈, 이에는 이’ 규칙을 적용한 프로그램이 우승했다. 이 결과를 공표하고, 일반인들까지 포함한 60여개 팀이 참여한 2차 대회에서도 역 시 팃포탯이 우승했다.
+:::
+
+---
+
+### 죄수의 딜레마
+
+![](https://cdn.britannica.com/55/91955-050-F444D10D/dilemma-prisoners-participants-game-theory-communication-strategy.jpg)
+
+
+---
+
+### 간접적 호혜주의
+
+- 좋은 평판을 쌓으면 제 3자를 통해서 이익이 돌아옴
+
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature04131/MediaObjects/41586_2005_Article_BFnature04131_Fig1_HTML.jpg?as=webp)
+
+---
+
+### 평판의 힘
+
+
+::: {.columns}
+::: {.column width="50%"}
+- 최후통첩 게임(Ultimatum game) 
+![](https://www.researchgate.net/profile/Shu-Li-lishu/publication/282306162/figure/fig1/AS:614268357574663@1523464397115/Schematic-diagram-of-the-ultimatum-game.png)
+:::
+::: {.column width="50%"}
+![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature02043/MediaObjects/41586_2003_Article_BFnature02043_Fig3_HTML.jpg?as=webp)
+:::
+:::
+
+::: footer
+참고자료 : [[Link]](https://www.nature.com/articles/nature02043.)
+:::
+
+---
+
+### 처벌의 힘
+
+![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature02043/MediaObjects/41586_2003_Article_BFnature02043_Fig4_HTML.jpg?as=webp)
+
+::: footer
+참고자료 : [[Link]](https://www.nature.com/articles/nature02043)
+:::
+
+---
+
+### 반복되지 않는 상황에서의 이타주의 - 강한 호혜성
+
+- 집단선택론(Group selection)
+- Big mistake 가설, 비혈현에까지 광범위하게 발현되는 이타성은  혈연 집단끼리 모여 살던 사회에서의 적응이 큰 사회에서까지 발현되는 일종의 '실수'와 같은 것
+- 과시가설(값비싼 신호 가설)
+- 집단의 압력(원거리 무기의 출현)
+
+---
+
+### 강한 호혜성
+
+- 사람들은 one-shot 게임에서도 기꺼이 익명의 남을 도와주는 경향이 있음.
+  - 일면식도 없는 타인을 위한 기부 
+- 강한 호혜성은 호혜적 이타주의와 간접적 호혜주의를 넘어서는 개념
+- 강한 호혜성은 협력적이고 집단의 규율을 따르는 타인에 대해 보상을 주고(이타적 보상) 아닌 자에게 처벌을 내리는 행동(이타적 처벌)을 포함한다.
+
+---
+
+### 집단선택론, 문화집단선택론 
+
+- 집단선택이 있다면 가능함.
+
+![](https://onlinelibrary.wiley.com/cms/asset/c8500516-6a63-4ccb-b81f-6d2874c99350/jeb_1258_f2.gif)
+
+::: footer
+참고자료 : [[Link]](https://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01258.x)
+:::
+
+---
+
+### 과시 가설(값비싼 신호 가설)
+
+- 남성 사냥꾼의 역할이 단지 영양 공급(provisioning)에만 있지 않다는 가설
+- 누가 뛰어난 사냥꾼인지 쉽게 구분할 수 있음.
+- 뛰어난 사냥꾼은 사냥감을 부족원들과 관대하게 나누어 갖고 이성으로부터의 인기 등 번식적 이득을 얻는다.
+
+---
+
+### 집단의 압력
+
+- 알파메일을 제압하기 위해서는 서열이 낮은 3마리가 달려들어야 함. 제압한다하더라도 심각한 타격은 불가피함.
+- 난 한놈만 팬다(?)
+- 그러나 원거리 무기의 발전으로 피해를 입지 않고 서열이 높은 개체를 무너뜨릴 수 있음.
+- 협업하지 않고 막무가내로 나갈 수 없음.
+
+---
+
+### 원거리 무기의 힘
+
+![](https://st2.depositphotos.com/3213441/11707/v/950/depositphotos_117074824-stock-illustration-silhouette-of-human-evolution-on.jpg){width="1000"}
+
+---
+
+### 인간이 협력할 수 있게 된 이유
+
+![](https://cdn.entermedia.co.kr/news/photo/201407/3604_8920_1300.jpg){width="1000"}
+
+::: notes
+인간은 왜 이렇게 폭력적인가?
+
+-> 침팬지가 총쏘는 법을 알았다면 바로 3차 세계대전이 일어날 것이라고 제인구달 선생님 답변하셨는데, 아마 총을 쏠줄 알았다면 침팬지도 조금 온순해지지 않았을까?
+:::
+
+---
+
+### 이타성에 대한 정리
+
+![](https://onlinelibrary.wiley.com/cms/asset/65536b3c-b84a-4e78-9200-d326f1ae2b2b/jeb_1258_f1.gif)
+
+
+::: footer
+참고자료 : [[Link]](https://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2006.01258.x)
+:::
+
+---
+
+### 조별과제가 어려운 이유
+
+![](img/team_project.jpg)
+
+---
+
+### 조별과제가 어려운 이유 
+
+- 인간이 강한호혜성을 진화시킨 동물이지만 무임승차자를 완전히 제거할 수는 없었음.
+- 많은 사람들이 협력적인 사회일수록 무임승차의 유혹은 더욱 커진다.
+
+::: {.callout-note}
+- 그리고 권력과 위선자의 존재가 집단의 전체적 협력을 안정적으로 유지하는데 역할을 한다는 연구도 있음.
+:::
+
+---
+
+### ※ 위선자의 존재가 집단 전체의 이타성에 미치는 영향
+
+![](img/hypocrisy.png)
+
+
+---
+
+### 개인적 자아와 집단적 자아
+
+
+![](https://www.science.org/cms/10.1126/science.1246850/asset/411fb866-e4c7-4e7b-adc4-db6b9ac5c195/assets/graphic/344_603_f1.jpeg)
+
+
+
+::: footer
+참고자료 : [[Link]](https://www.science.org/doi/full/10.1126/science.1246850)
+:::
+
+---
+
+### 개인적 자아와 집단적 자아
+
+
+![](https://www.science.org/cms/10.1126/science.1246850/asset/39f8eaae-47ba-4b56-a8f4-25d7940664a5/assets/graphic/344_603_f2.jpeg)
+
+
+
+::: footer
+참고자료 : [[Link]](https://www.science.org/doi/full/10.1126/science.1246850)
+:::
+
+---
+
+
+### 개인적 자아와 집단적 자아 
+
+- 집단 선택의 힘이 강한 지역에서 집단적 자아가 많이 나타남
+- 스타트업에서는 두 가지 자아를 잘 활용해야 한다.
+- 개인적 자아와 집단적 자아가 추구하는 가치를 잘 align 시키는 것이 가장 중요하다.(창업자가 해야할 일)
+
+---
+
+### 2. 진실성
+
+- 이타적인 마인드로 서로에게 상처가 되지 않기 위해서 자신의 생각을 쉽게 주장하지 못하고
+- 일이 잘못 진행되어 가는 것처럼 느껴져도 다수가 이야기하는대로 따라가는 조직은 건강하지 못하다.
+
+---
+
+### 진실이 막히는 순간 
+
+![](img/asch.png) 
+
+::: footer
+ Asch, 1955
+:::
+
+---
+
+### 확증 편향
+
+자신이 가지고 있는 기존 믿음이나 가설과 부합하는 정보만을 찾고, 그렇기 않으면 그에 맞게 정보를 해석하려는 심리적 경향을 말한다. 인지편향의 한 유형으로 대표적인 귀납 추론의 오류 중 하나이다.
+
+---
+
+### 침묵의 나선 
+
+![](https://www.researchgate.net/profile/Oberiri-Apuke/publication/329543200/figure/fig1/AS:702396187549699@1544475709961/Spiral-of-Silence-Model-Aryal-2014-Noelle-Neumann-1993.ppm)
+
+
+::: footer
+Noelle-Neumann, 1993 : [[Link]](https://www.researchgate.net/figure/Spiral-of-Silence-Model-Aryal-2014-Noelle-Neumann-1993_fig1_329543200)
+:::
+
+---
+
+### 동조와 확증편향을 막기 위한 방법
+
+![](https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rcmm20/2017/rcmm20.v084.i01/03637751.2016.1231334/20170126/images/medium/rcmm_a_1231334_f0001_b.gif)
+
+::: footer
+Lee E-J et al, 2017 : [[Link]](https://www.tandfonline.com/doi/full/10.1080/03637751.2016.1231334)
+:::
+
+---
+
+### 12명의 성난 사람들
+
+![](https://bizroasting.files.wordpress.com/2016/01/12_angry_men.jpg?w=816)
+
+::: notes
+살인 혐의를 쓴 한 소년에 대한 재판에서 11명의 배심원이 그의 유죄를 인정하는데 단 한 명이 반론을 제기, 토론을 하는 내용
+:::
+
+---
+
+### 동조와 확증편향을 막기 위한 방법
+
+- 의문은 덮어두지 말 것, 진실 부채를 쌓지 말라.
+  - 덮어두면 부패한다.
+- 합리적이고 양적인 근거를 가지고 끊임없이 설득해야함. 
+
+---
+
+### 3. 신속성
+
+- 좋은 팀 안에서는 **이타적인 의도**를 가지고 **진실된 정보**들이 유통된다.
+
+- 여기에 한 가지가 더 필요하다.
+- 정보가 빠르게 돌아야 경쟁력 있는 팀이 될 수 있다.
+
+---
+
+:::{.r-stack}
+Loading
+::::
+
+---
+
+![](https://c.tenor.com/DPEfCqnChk0AAAAi/loading-slow-net.gif)
+
+
+---
+
+### 즉각적인 반응과 팀 본딩과정 
+
+![](https://images.ctfassets.net/lzny33ho1g45/2J4pHtKLrY0KfF7mtWdRPK/6eb384c1109eecdc64f18330c8b639e7/Disable_Slack_typing_notifications_6.png?w=1400)
+
+
+---
+
+![](https://images.ctfassets.net/lzny33ho1g45/4LAgGSV25JteXQEb6c7ABj/d3c4ca89c27291f76477f09339eda751/Disable_Slack_typing_notifications_2.png?w=1400){width="1000"}
+
+![](https://images.ctfassets.net/lzny33ho1g45/1pG6dXgN75mjEmOTmRT2VF/299a9b96ad272682677eb001260f221f/Disable_Slack_typing_notifications_3.png?w=1400){width="1000"}
+
+---
+
+### 협력의 매개로서 도파민 
+
+![](img/dopamine_loop.png)
+
+::: footer
+참고자료 : [[Link]](https://dergipark.org.tr/en/download/article-file/607734)
+:::
+
+
+---
+
+### 즉각적인 고객 대응의 필요성
+
+- *"고객이 00분째 기다리고 있습니다."*(채널톡 사례)
+- 더 좋은 사용자 경험을 만들기 위해서 고객에 대한 즉각적인 대응은 필수적임
+- 그만큼 내부 팀원들과의 반응도 즉각적으로
+
+---
+
+### 신속한 커뮤니케이션이 필요한 순간
+
+![](http://scienceoflove.co.kr/wp-content/uploads/2016/10/sol162_illu_01.png)
+
+
+---
+
+### Agile manifesto
+
+![](img/agile_manifesto.png)
+
+---
+
+### 스타트업 방법론들
+
+- 린 스타트업, 애자일, 스크럼 등 방법론을 적용하는가가 중요하지 않다.
+- 결국은 팀내에서 즉각적으로 사회적 상호작용에 의한 보상과 프로덕트에 의한 보상, 그리고 고객과의 상호작용에 의한 보상의 주기를 짧게 가져가는 것이 스타트업 방법론의 핵심!
+- 구성원이 이타적인 의도를 가지고 진실된 정보를 신속하게 나누고 있는가를 각각의 기준에 의해 판단하면 됨.
+- 구성원들의 경험까지 세분화하고 관리하는 것이 필요.
+
+---
+
+### Hebbian rule
+
+![](https://i.pinimg.com/originals/1d/12/48/1d1248c551f4d4821264ed0aef452fe5.jpg)
+
+---
+
+### 다음시간에는...
+
+- 적응(adaptation)개념과 적응적(adaptive)인 서비스에 대해서 알아봅시다.
+

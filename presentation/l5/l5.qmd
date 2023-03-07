@@ -1,0 +1,893 @@
+---
+title: "L5. 생각도구들은 어떻게 창의적 생각을 촉진시킬까?" 
+subtitle: "생각의 공간 탐험과 생각도구의 힘"
+author: Minseop Lee(Gachon Cocone School, Gachon University)
+date: ''
+format:
+  revealjs: 
+    slide-number: true
+    # scrollable: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    theme: ../../../template/metropolis.scss 
+    logo: /logo/logo2.png
+    footer: 스타트업 창업 프로젝트
+resources:
+  - demo.pdf
+---
+
+## 지난 시간 리뷰
+
+
+
+## 수업 목표
+
+1. 가능성의 공간 탐색하기
+2. 가능성의 공간 등반하기
+3. 탐색과 등반에 도움을 주는 생각도구들
+
+
+
+
+## 진화의 공간 {auto-animate="true"}
+
+<br/>
+
+#### 화덕만두 메뉴 구별법
+
+::: columns
+
+::: {.fragment .column width="50%"}
+##### 메뉴판
+
+![](https://www.changupdo.com/data/franchise/11076/2083770158_jpaXFIdc_EB8BA4EC9AB4EBA19CEB939C_-_2021-01-15T231845.319.jpg)
+
+:::
+
+:::{.column width="5%"}
+:::
+
+::: {.fragment .column width="45%"}
+
+##### 화덕 속 만두
+
+![](http://image.dongascience.com/Photo/2016/01/1452218388511.jpg)
+
+:::
+
+:::
+
+## 진화의 공간 
+
+<br/>
+
+네 가지 메뉴를 사장님 또는 손님이 구분할 수 있는 방법은?
+
+
+
+## 메뉴 구별하기🥟 
+
+<iframe src="https://wall.sli.do/event/1bLfjpfVAEuaqBbLFvp9sL" width="1000" height="600"></iframe>
+
+
+## 정답 {auto-animate="true"}
+
+- 흰깨(0)와 검은깨(1)만 있으면 됨
+- 11, 10, 01, 00
+
+
+$$ {참깨의\:종류}^2 = 메뉴의\:종류 $$
+$$ 2^2 = 4 $$
+
+- 사장님의 방법일 뿐 유일한 방법은 아님
+
+## 정답 {auto-animate="true"}
+
+![](https://www.menupan.com/common/service/img_proxy.asp?src=http%3A%2F%2Fblogfiles.naver.net%2F20140425_294%2Fjylhee0704_1398423598799G1WP0_JPEG%2FP4251672.jpg){fig-alt="menu" width="800"}
+
+
+
+## 유한한 요소들로 무한에 가까운 공간을 생성하는 법
+
+<br/>
+<br/>
+
+::: incremental
+- 조합(combination)
+- 복잡하고 다양한 feature 들을 만들어 내는 방법
+- 화덕만두 메뉴 공간보다 훨씬 넓은 공간으로 
+:::
+
+
+## 바벨의 도서관
+
+<iframe src="https://www.youtube.com/embed/-Zs0XawBkCo" width="1000" height="600"></iframe>
+
+:::{.notes}
+보르헤스의 단편 소설로 그가 대문호로 알려지게 된 작품이며 이후 많은 문학작품에 영감을 주었음.
+:::
+
+
+## 책의 구조 📚
+
+- 각 권은 410페이지
+- 각 페이지는 40줄
+- 각 줄은 80여개 글자
+-> 각 권의 문자 자리 수 : 1312000개
+- 사용할 문자는 25개
+
+::: {.r-stack .fragment .fade-in}
+모든 책의 조합의 수 : $25^{1312000} \gg 100^{500000}$
+:::
+
+::: {.fragment}
+이게 얼마나 큰 수냐면, 
+:::
+
+::: {.r-stack .fragment}
+우주의 관찰 가능한 영역의 입자 수: $100^{40}$
+:::
+
+
+
+## 진열실의 개수 ⬡
+
+- 1개 진열실에 20개 책장(4개 벽 X 5개 책장)
+- 책장마다 32권의 책
+-> 1개 진열실에 640권의 책
+
+- 세상의 모든 가능한 책을 담기 위해서는 $25^{1312000} \div 640$ 개의 진열실이 필요
+- 이론상 필요한 진열실의 개수는 무한이 아니다.
+
+
+
+## 진열실의 개수 ⬡
+
+> "창고는 수만 개의-또는 수억 개, 수조 개의-육각형 통풍구가 벌집 구조를 이루고 있는데, 통풍구 가장자리의 발코니에는 책장이 늘어서 있다. … 이 창고는 무한할까? 결국 그들은 무한하지 않다고 결론 내리지만, 무한하다고 봐도 무방하다" - 대니얼 데닛, "직관펌프 생각을 열다", 2015. pp. 258-259
+
+
+
+## 바벨의 도서관(1944, 호르헤 루이스 보르헤스)
+
+
+::: {.r-stack}
+![](http://newsimg.hankookilbo.com/2019/02/11/201902111594754423_10.jpg){.fragment width="900"}
+
+![](https://medievalfragments.files.wordpress.com/2013/01/screen-shot-2013-01-11-at-11-40-46-am.png){.fragment width="700"}
+
+![](https://preview.redd.it/10gapzlwiz351.jpg?auto=webp&s=a030e526c9cdee33646588ba1bb7eb0c99c1d750){.fragment width="500"}
+:::
+
+
+
+## Vanishingly small, Vastly
+
+::: incremental
+
+- Vanishingly small : **없**다고 할 정도로 **작은**, *없작은*
+- Vastly(**V**ery-much-more-than-**ast**ronomical**ly**) : **천**문학적인 수보다 훨씬 **많은**, *천많은*
+
+:::
+
+
+## Vanishingly small, Vastly 
+
+![](img/babel-space.png){fig-alt="intuition pump"}
+
+
+## 사막에서 바늘을 찾아봅시다!🌵
+
+<br/>
+
+🎯 target 문장 ↓↓↓↓
+  
+> on september sixth, twenty twenty four, a first unicorn startup was born at Cocone 1000 School.
+
+
+## library of babel
+
+[library of babel 링크](https://libraryofbabel.info/)
+
+
+<iframe src="https://libraryofbabel.info/" width="1000" height="500"></iframe>
+
+---
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading1.svg){width="450"}
+:::
+
+
+## 좋은 서비스란
+
+::: {.r-stack .incremental}
+> "행복한 가정은 모두 모습이 비슷하고, 불행한 가정은 모두 제각각으로 불행을 안고 있다." 
+<br><br>  톨스토이 "안나 카레리나"의 첫 문장 
+:::
+
+
+## 서비스의 공간에서 파도타기
+
+::: {.r-stack}
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/4e/Mavericks_Surf_Contest_2010b.jpg){.fragment height="600"}
+
+![](https://thumbs.dreamstime.com/b/fail-clumsy-surfer-water-76993503.jpg){.fragment height="600"}
+
+:::
+
+
+
+## 좋은 서비스를 찾는 방법
+
+::: incremental
+- 가장 확실한 방법은 모든 공간에 '방문'하는 것
+- 그러나 `바벨의 도서관`을 떠올려 보자.
+- 인생은 짧다🏃🏻‍♂️
+:::
+
+::: {.r-stack}
+![](http://newsimg.hankookilbo.com/2019/02/11/201902111594754423_10.jpg){.fragment height="300"}
+:::
+
+
+## 언덕 오르기(Hill climbing)
+
+::: incremental
+- 시간이 한정되어 있으니 좋은 방법이 필요함.
+- 현재 어느 위치에 있든 높은 쪽으로 이동하다보면 가장 높은 곳에 도달하지 않을까?
+:::
+
+::: {.r-stack}
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Tsubakurodake_from_Otenshodake_2002-8-22.jpg/640px-Tsubakurodake_from_Otenshodake_2002-8-22.jpg){.fragment height="300"}
+:::
+
+
+
+## 경사하강법
+
+
+```{python}
+from IPython.core.display import HTML
+import plotly
+import plotly.graph_objects as go
+import noise
+import numpy as np
+import matplotlib
+from mpl_toolkits.mplot3d import axes3d
+%matplotlib inline
+import pandas as pd
+
+data = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/api_docs/mt_bruno_elevation.csv')
+
+data_arr = data.to_numpy()
+double_arr = np.append(data_arr, 1.5*data_arr + 50, axis=0)
+quad_arr = np.append(double_arr, 1.5*double_arr + 50, axis=1)
+
+z = quad_arr
+# matplotlib.pyplot.imshow(z,origin='lower',cmap='terrain')
+
+# Find maximum value index in numpy array
+indices = np.where(z == z.max())
+max_z_x_location, max_z_y_location = (indices[1][0],indices[0][0])
+# matplotlib.pyplot.plot(max_z_x_location,max_z_y_location,'ro',markersize=15)
+
+# Find minimum value index in numpy array
+indices = np.where(z == z.min())
+min_z_x_location, min_z_y_location = (indices[1][0],indices[0][0])
+# matplotlib.pyplot.plot(min_z_x_location,min_z_y_location,'yo',markersize=15)
+
+import numpy as np
+from numpy.lib.stride_tricks import as_strided
+
+def sliding_window(arr, window_size):
+    """ Construct a sliding window view of the array"""
+    arr = np.asarray(arr)
+    window_size = int(window_size)
+    if arr.ndim != 2:
+        raise ValueError("need 2-D input")
+    if not (window_size > 0):
+        raise ValueError("need a positive window size")
+    shape = (arr.shape[0] - window_size + 1,
+             arr.shape[1] - window_size + 1,
+             window_size, window_size)
+    if shape[0] <= 0:
+        shape = (1, shape[1], arr.shape[0], shape[3])
+    if shape[1] <= 0:
+        shape = (shape[0], 1, shape[2], arr.shape[1])
+    strides = (arr.shape[1]*arr.itemsize, arr.itemsize,
+               arr.shape[1]*arr.itemsize, arr.itemsize)
+    return as_strided(arr, shape=shape, strides=strides)
+
+def cell_neighbours(arr, i, j, d):
+    """Return d-th neighbors of cell (i, j)"""
+    w = sliding_window(arr, 2*d+1)
+
+    ix = np.clip(i - d, 0, w.shape[0]-1)
+    jx = np.clip(j - d, 0, w.shape[1]-1)
+
+    i0 = max(0, i - d - ix)
+    j0 = max(0, j - d - jx)
+    i1 = w.shape[2] - max(0, d - i + ix)
+    j1 = w.shape[3] - max(0, d - j + jx)
+
+    return w[ix, jx][i0:i1,j0:j1].ravel()
+
+from dataclasses import dataclass
+
+@dataclass
+class descent_step:
+    """Class for storing each step taken in gradient descent"""
+    value: float
+    x_index: float
+    y_index: float
+
+def gradient_descent_3d(array,x_start,y_start,steps=50,step_size=1,plot=False):
+    # Initial point to start gradient descent at
+    step = descent_step(array[y_start][x_start],x_start,y_start)
+    
+    # Store each step taken in gradient descent in a list
+    step_history = []
+    step_history.append(step)
+    
+    # Plot 2D representation of array with startng point as a red marker
+    if plot:
+        # matplotlib.pyplot.imshow(array,origin='lower',cmap='terrain')
+        matplotlib.pyplot.plot(x_start,y_start,'ro')
+      
+    current_x = x_start
+    current_y = y_start
+
+    # Loop through specified number of steps of gradient descent to take
+    for i in range(steps):
+        prev_x = current_x
+        prev_y = current_y
+        
+        # Extract array of neighbouring cells around current step location with size nominated
+        neighbours=cell_neighbours(array,current_y,current_x,step_size)
+        
+        # Locate minimum in array (steepest slope from current point)
+        next_step = neighbours.min()
+        indices = np.where(array == next_step)
+        
+        # Update current point to now be the next point after stepping
+        current_x, current_y = (indices[1][0],indices[0][0])
+        step = descent_step(array[current_y][current_x],current_x,current_y)
+        
+        step_history.append(step)
+        
+        # Plot each step taken as a black line to the current point nominated by a red marker
+        if plot:
+            # matplotlib.pyplot.plot([prev_x,current_x],[prev_y,current_y],'k-')
+            # matplotlib.pyplot.plot(current_x,current_y,'ro')
+            break
+
+        # If step is to the same location as previously, this infers convergence and end loop
+        if prev_y == current_y and prev_x == current_x:
+            # print(f"Converged in {i} steps")
+            break
+    return next_step,step_history
+
+np.random.seed(42)
+global_minimum = z.min()
+indices = np.where(z == global_minimum)
+# print(f"Target: {global_minimum} @ {indices}")
+
+step_size = 0
+found_minimum = 99999
+
+# Random starting point
+start_x = np.random.randint(0,50)
+start_y = np.random.randint(0,50)
+
+# Increase step size until convergence on global minimum
+# print('==========================')
+# print(found_minimum)
+# print(global_minimum)
+# print('==========================')
+
+while found_minimum != global_minimum:
+    step_size += 1
+    try:
+        found_minimum,steps = gradient_descent_3d(z,start_x,start_y,step_size=step_size,plot=True)
+    except ValueError:
+        pass
+
+# print(f"Optimal step size {step_size}")
+found_minimum,steps = gradient_descent_3d(z,start_x,start_y,step_size=step_size,plot=True)
+# print(f"Steps: {steps}")
+
+def multiDimenDist(point1,point2):
+   #find the difference between the two points, its really the same as below
+   deltaVals = [point2[dimension]-point1[dimension] for dimension in range(len(point1))]
+   runningSquared = 0
+   #because the pythagarom theorm works for any dimension we can just use that
+   for coOrd in deltaVals:
+       runningSquared += coOrd**2
+   return runningSquared**(1/2)
+def findVec(point1,point2,unitSphere = False):
+  #setting unitSphere to True will make the vector scaled down to a sphere with a radius one, instead of it's orginal length
+  finalVector = [0 for coOrd in point1]
+  for dimension, coOrd in enumerate(point1):
+      #finding total differnce for that co-ordinate(x,y,z...)
+      deltaCoOrd = point2[dimension]-coOrd
+      #adding total difference
+      finalVector[dimension] = deltaCoOrd
+  if unitSphere:
+      totalDist = multiDimenDist(point1,point2)
+      unitVector =[]
+      for dimen in finalVector:
+          unitVector.append( dimen/totalDist)
+      return unitVector
+  else:
+      return finalVector
+
+def generate_3d_plot(step_history):
+    # Initialise empty lists for markers
+    step_markers_x = []
+    step_markers_y = []
+    step_markers_z = []
+    step_markers_u = []
+    step_markers_v = []
+    step_markers_w = []
+    
+    for index, step in enumerate(step_history):
+        step_markers_x.append(step.x_index)
+        step_markers_y.append(step.y_index)
+        step_markers_z.append(step.value)
+        
+        # If we haven't reached the final step, calculate the vector between the current step and the next step
+        if index < len(steps)-1:
+            vec1 = [step.x_index,step.y_index,step.value]
+            vec2 = [steps[index+1].x_index,steps[index+1].y_index,steps[index+1].value]
+
+            result_vector = findVec(vec1,vec2)
+            step_markers_u.append(result_vector[0])
+            step_markers_v.append(result_vector[1])
+            step_markers_w.append(result_vector[2])
+        else:
+            step_markers_u.append(0.1)
+            step_markers_v.append(0.1)
+            step_markers_w.append(0.1)
+    
+    # Include cones at each marker to show direction of step, scatter3d is to show the red line between points and surface for the terrain
+    fig = go.Figure(data=[
+        go.Cone(
+        x=step_markers_x,
+        y=step_markers_y,
+        z=step_markers_z,
+        u=step_markers_u,
+        v=step_markers_v,
+        w=step_markers_w,
+        sizemode="absolute",
+        sizeref=2,
+        anchor='tail'),
+
+        go.Scatter3d(
+        x=step_markers_x,
+        y=step_markers_y,
+        z=step_markers_z,
+        mode='lines',
+        line=dict(
+            color='red',
+            width=2
+        )),
+
+        go.Surface(colorscale='Earth', z=quad_arr,opacity=0.5)])
+
+
+    # Z axis is limited to the extent of the terrain array
+    fig.update_layout(
+        width=1000,
+        height=600,
+        title='Gradient Descent Steps',
+        scene = dict(zaxis = dict(range=[quad_arr.min(),quad_arr.max()],),),)
+    return fig
+    
+# Generate 3D plot from previous random starting location
+fig = generate_3d_plot(steps)
+fig.show()
+# plotly.offline.plot(fig, filename='random_starting_point_3d_gradient_descent.html',include_plotlyjs='cdn')
+```
+
+::: footer
+코드 출처 : [Link](https://stackoverflow.com/questions/67508362/how-to-plot-gradient-descent-using-plotly)
+:::
+
+
+## 언덕 오르기(Hill climbing)
+
+![](https://buildingai.elementsofai.com/illustrations/Chapter-1/1.3_1-Hill-climbing.svg)
+
+
+
+
+## Exploitation vs. Exploration
+
+![](img/explorationandexplotation.jpeg){.fragment height="600"}
+
+
+::: footer
+참고자료 출처 : [Link](https://www.linkedin.com/pulse/battle-exploration-exploitation-mindset-abhishek-singh/)
+:::
+
+## Exploitation vs. Exploration{auto-animate="true"}
+
+::: incremental
+- **exploitation** : 현재의 정보로 최선을 hill climbing 등 최선을 다해 최적값을 찾는 활동 
+- **exploration** : 정보를 모으기 위해서 실험적인 행동을 하는 것
+:::
+
+
+::: {.r-stack}
+![](https://thumbs.dreamstime.com/b/exploitation-exploration-staying-balance-pictured-as-metal-scale-weights-labels-exploitation-exploration-to-198075390.jpg){.fragment height="300"}
+:::
+
+
+## Exploitation vs. Exploration{auto-animate="true"}
+
+- **exploitation** : 현재의 정보로 최선을 hill climbing 등 최선을 다해 최적값을 찾는 활동 
+- **exploration** : 정보를 모으기 위해서 실험적인 행동을 하는 것
+
+
+::: {.r-stack}
+>  아무리 실행력이 뛰어나도 잘못된 전제에 기초한 제품을 심폐 소생할 수는 없다. 사실 잘못된 전제에 더 많은 시간과 노력을 투자할수록 더 오래, 더 크게, 더 고통스럽게 실패한다.<br><br> 알베르트 사보이아 "아이디어 불패의 법칙" 중에서...
+:::
+
+
+## Exploitation vs. Exploration{auto-animate="true"}
+
+- **exploitation** : 현재의 정보로 최선을 hill climbing 등 최선을 다해 최적값을 찾는 활동 
+- **exploration** : 정보를 모으기 위해서 실험적인 행동을 하는 것
+
+
+::: {.r-stack}
+>  아무리 실행력(**exploitation**)이 뛰어나도 잘못된 전제(**시작점을 잘못 잡거나 잘못된 exploration을 하면**)에 기초한 제품을 심폐 소생할 수는 없다. 사실 잘못된 전제에 더 많은 시간과 노력을 투자할수록 더 오래, 더 크게, 더 고통스럽게 실패한다.<br><br> 알베르트 사보이아 "아이디어 불패의 법칙" 중에서...
+:::
+
+
+## Exploitation vs. Exploration
+
+::: incremental
+- 자연선택에 의한 생물의 진화과정이 `변이`와 `적응`을 적절히 `활용`하는 것과 유사
+- 자연계와 마찬가지로 두 활동 모두 전역 최적점에 곧바로 도달할 수는 없기 때문에 더듬더듬 갈 수 밖에 없다.
+:::
+
+
+## Local solution & Local question
+
+- 이러한 단계에서 흔히 저지르게 되는 실수!
+
+::: {.fragment}
+- local한 solution : 👌
+- local한 question : 🙅
+:::
+
+. . .
+
+::: {.callout-important .fragment}
+- 개인적인 경험에서 문제를 발굴하는 것이 문제 해결에 강한 동기를 주는 것은 맞지만 이러한 문제가 local question일 경우가 많다. 개인적 경험이라도 이것이 global question 인지를 꼭 확인해봐야 한다.
+- 대학생이 프로젝트를 기획하거나 창업을 할 때 가장 편한 영역이 학교와 관련된 것일 가능성이 크다. 그만큼 경계를 해야함.
+:::
+
+
+## Quiz
+
+<!-- 사용자 조사는 exploitation 인가 exploration 인가? -->
+
+<iframe src="https://wall.sli.do/event/1bLfjpfVAEuaqBbLFvp9sL?section=1318ac6b-7f9e-4c44-ab48-76031f1d459e" width="1000" height="600"></iframe>
+
+
+## Wrap up!
+
+::: incremental
+1. 공간 속 다양한 형태의 서비스를 모두 확인할 시간이 없다.
+2. 최적을 찾는 방법을 효과적으로 실행해야함(exploitation, hill climbing 등) 
+3. exploitation만으로는 답을 못찾을 수 있다.
+4. 시작점(initial value) 설정을 global 하게
+5. 적절한 시점에 exploration 시도
+:::
+<br>
+
+::: {.r-stack .fragment}
+_서비스의 성공을 판단하는 다른 축으로_ 👉
+:::
+
+
+## 강의 순서
+
+<br/>
+<br/>
+
+1. 좋은 서비스란 
+
+:::{.fragment .highlight-blue}
+2. 서비스와 인간의 관계
+:::
+
+
+## 서비스 성공의 다른 측면
+
+::: incremental
+- 서비스의 공간은 시간에 따라 계속해서 변화한다.
+- 단기적인 성공이 장기적인 성공을 보장해주지는 않는다.
+- 서비스가 폭발적인 인기를 얻고 성공적인 전파가 일어났지만 인간에 긍정적인 영향을 주지 못한다면?
+:::
+
+<br>
+<br>
+
+::: {.r-stack .fragment}
+_생물계의 종간관계를 통해 서비스와 인간과의 관계를 생각해보자._
+:::
+
+
+## 공생(Symbiosis)의 종류
+
+::: incremental
+1. Mutualism(상리공생)
+2. Commensalism(편리공생)
+3. Amensalism(편해공생)
+4. Paraticism(기생)
+:::
+
+. . .
+
+::: {.callout-tip .fragment}
+공생이 아닌 경쟁의 관계 또한 생물계에서 중요한 개념이며 이는 서비스 간의 관계를 이야기 할 때 다룰 예정
+:::
+
+
+## 1. Mutualism
+
+<!-- 
+사례
+-->
+
+- 서로 다른 종의 동물이 상호작용을 통하여 서로 **이익**을 주고 받는 것을 의미한다.
+- 흰개미와 흰개미의 내장 속에 사는 원생동물(원생동물이 흰개미가 먹는 섬유질을 소화시켜주고 흰개미에게서 먹이와 집을 얻는다)
+
+
+![](https://post-phinf.pstatic.net/MjAxNzA3MTJfMjUx/MDAxNDk5ODIxMDYyOTI5.pZYMHnbIvlmvPrGaxkDQzHm4qmF4ejEx7tH5Zxdvhbog.yE04jWcf8XHrcFXDWImPWlkZ8YaCiCI3OC-bA7TxnNsg.JPEG/%ED%9D%B0%EA%B0%9C%EB%AF%B8.jpg?type=w1200){fig-alt="termite".r-stretch}
+
+
+## 2. Commensalism
+
+<!-- 
+사례
+-->
+
+- 둘 이상의 개체가 함께 살아가고 있을 때에, 두 개체 중의 하나가 이익을 얻고 다른 개체는 영향을 받지 않는 공생 관계이다. 
+- 상어와 빨판상어, 고래의 피부에 사는 따개비
+
+
+
+![](https://blog.kakaocdn.net/dn/JUeXp/btqHy42pBqr/FJuKi7g8nh95cO99oFVuF0/img.jpg){.r-stretch}
+
+
+
+## 3. Amensalism
+
+<!--
+사례
+-->
+
+- 예를 들어, 착생 식물이 나무에 붙어 생활하는 것으로, 숙주 나무가 착생 식물의 잎으로 덮여 광합성을 방해받는 것 또한 있을 수 있다. 그러면 착생 식물은 기생 식물에 대해 "영양을 뺏는 도적"이라고 할 수 있다. 이 경우 이 관계는 편해공생이라고 할 수 있다.
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Penicillium_Pengo.jpg/500px-Penicillium_Pengo.jpg){.r-stretch}
+
+
+## 4. Paraticism
+
+<!-- 
+사례
+-->
+
+- 한 생물이 다른 생물에게는 도움을 주는 반면 다른 생물로부터 자신은 도움을 받지는 못하거나 오히려 해를 받는 경우를 말한다.
+
+- 뻐꾸기 탁란에서 부터 각종 기생충에 이르기까지
+
+
+![](https://www.yeongnam.com/mnt/file/201308/20130809.010370812100001i1.jpg){fig-alt="뻐꾸기" .r-stretch}
+
+
+
+
+## 관계의 변화 {auto-animate="true"}
+
+<br>
+<br>
+<br>
+
+::: {.r-stack}
+편리공생 
+:::
+
+## 관계의 변화 {auto-animate="true"}
+
+
+<br>
+<br>
+<br>
+
+::: {.r-stack}
+편리공생 → 편해공생 
+:::
+
+
+## 관계의 변화 {auto-animate="true"}
+
+<br>
+<br>
+<br>
+
+::: {.r-stack}
+편리공생 → 편해공생 → 기생
+:::
+
+<br>
+
+::: incremental
+- 점진적으로 관계가 변화할 수 있음
+- 기획 의도대로 영원히 가지 않음
+:::
+
+
+## 사전 영상자료
+
+<!-- 소셜 딜레마 요약 -->
+
+<iframe src="https://www.youtube.com/embed/MstP7noVX78" width="1000" height="600"></iframe>
+
+
+## 좋은 서비스의 조건 - 지난 시간 J1 파트
+
+- 지속하고 싶어하는 경험
+- 전적으로 그 일에만 집중하는 상태
+- 제품이나 서비스에 각별한 관심을 갖게 됨
+- 경험하는 과정을 즐기게 됨
+
+::: {.r-stack .fragment .border}
+_위의 조건들에 따르면 SNS 서비스들은 좋은 경험을 선사하는 서비스가 맞지만 서비스가 우리에게 주는 편익 부정적인 영향 그리고 서비스 자체의 성장에 대해 고민해보자._
+:::
+
+
+## 나와 SNS 의 관계에 대해 이야기해보기
+
+- ##### 서비스의 편익을 잘 활용하고 있는지, 서비스에 탐닉하고 있는지
+
+
+<iframe src="https://wall.sli.do/event/1bLfjpfVAEuaqBbLFvp9sL?section=1318ac6b-7f9e-4c44-ab48-76031f1d459e" width="1000" height="500"></iframe>
+
+
+## 편익, 몰입, 탐닉
+
+::: {.columns}
+
+::: {.column width="40%"}
+![](http://imagescdn.gettyimagesbank.com/500/19/680/585/0/1147833411.jpg)
+:::
+
+::: {.column width="60%"}
+::: incremental
+- SNS는 어떤 편익을 주며,
+- 왜 사람들은 SNS에 몰입하고
+- 왜 몰입을 넘어 탐닉하게 되는가?
+:::
+:::
+
+:::
+
+
+## SNS의 편익
+
+::: incremental
+- 연결(social networking)
+- 소통 공간(sodial media)
+- 빠른 정보 전달
+- ...
+:::
+
+
+## 왜 사람들은 SNS에 몰입하는가?
+
+::: incremental
+- 인간의 사회성과 인지구조를 잘 활용하는 서비스
+  - 인간의 사회성: 소외되는 것에 대한 두려움(FoMo)
+  - 인간의 인지구조: 매체의 형식을 기존 미디어와 차별화하면서 기억하고 사용하기 편리한 구조를 만들어 냄 
+- 이러한 부분들에 대해 서비스의 적응성(L5-6)과 맥락성(L7-8) 파트에서 자세히 다룰 예정 
+:::
+
+
+## 주체성이 어디에 있는가
+
+<br>
+<br>
+<br>
+
+::: {.r-stack}
+| _내가 SNS 서비스를 이용하는가?_
+| 
+| Vs.
+| 
+| _SNS가 나의 인지적/사회적 자원을 활용하는가?_
+:::
+
+
+
+## Wrap up!
+
+::: incremental
+- 인간과의 관계를 통해 바라봤을때 좋은 서비스와 나쁜 서비스를 생각해볼 수 있음
+- 서비스가 어떤 **경험**을 제공하는지를 넘어 장기적 관점에서 인간에게 어떤 **효과**를 일으키는지를 고려해야 함. 
+:::
+
+## 
+
+
+## 직관과 도구사용
+
+- 도구사용은 직관적이지는 않다. 도구 사용에 익숙하기 전까지는... 각종 매듭...
+- 지난 시간 강건너기 문제에 대한 해답 알고리즘이 비직관적이나 이 문제를 빈번하게 풀어야 하는 문제라면 여러분 모두는 익숙하게 다룰 것이다
+- 도구는 직관을 부스팅해주면 도구의 작동원리를 상세하게 이해할 필요는 없다.
+
+## 도구의 필요성
+
+- 근거에 기반한 기획
+- 초기 학습 비용과 향후 얻게 될 효용의 비교
+- 팀내 의사소통의 효율화
+- 투자자 등 외부와의 의사소통 효율화
+
+# section
+
+숫자와 나눗셈이 없을때 -> 나눗셈이 생겼을 때 -> 계산기와 컴퓨터가 생겼을때
+
+---
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading2.svg){width="450"}
+:::
+
+
+# section
+
+
+
+
+
+
+
+
+---
+
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading2.svg){width="450"}
+:::
+
+
+# section
+
+
+---
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading2.svg){width="450"}
+:::
+
+
+# 강의 요약
+
+## 강의 요약
+
+
+--- 
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading3.svg){width="450"}
+:::
+
+
+
