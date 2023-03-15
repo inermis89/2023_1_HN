@@ -1,0 +1,114 @@
+---
+title: "L7. 공감의 반경" 
+subtitle: "공감의 원심력과 구심력"
+author: Minseop Lee(Gachon Cocone School, Gachon University)
+date: ''
+format:
+  revealjs: 
+    slide-number: true
+    # scrollable: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    theme: ../../../template/metropolis.scss 
+    logo: /logo/logo2.png
+    footer: 인간본성의 과학적 이해
+resources:
+  - demo.pdf
+---
+
+
+## 수업 목표
+
+<!-- 1,2 순서를 바꾸는 것이 좋을 것인가? -->
+
+1. 생물학에서의 궁극인과 근접인이 무엇인지 물리학에서의 인과와 다른점이 무엇인지 이해한다.
+2. 자연선택 이론이 무엇인지 기존의 진화이론들과는 다른 점이 무엇인지 이해한다.
+3. 다윈 진화론이 적용될 수 있는 영역에 대해 이해하고 창업활동에 어떻게 연결될 수 있을지 고민해본다.
+
+---
+
+
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading1.svg){width="450"}
+:::
+
+# 공감이 만든 혐오
+
+## 느낌에서 시작되는 배제와 차별
+
+## 부족 본능
+
+## 코로나19의 대유행, 혐오의 대유행
+
+## 알고리듬, "주위에 우리 편밖에 없어"
+
+
+---
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading2.svg){width="450"}
+:::
+
+
+# 느낌을 넘어서는 공감
+
+## 내 혐오는 정당해
+
+
+## 첫인상으느 틀린다
+
+## 느낌의 공동체에서 사고의 공동체로
+
+
+## 처벌은 어떻게 공감이 되는가
+
+## 마음의 경계는 허물어지고 있다.
+
+
+
+
+---
+
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading2.svg){width="450"}
+:::
+
+
+# 공감의 반경을 넓혀라
+
+
+## 본능은 변한다.
+
+## 누구나 마음껏 비키니를 입는다면
+
+## 편협한 한국인의 탄생
+
+## 한국인의 독특함이 족쇄가 되다
+
+## 타인에게로 향하는 기술
+
+## 접촉하고 교류하고 더 넓게 다정해지기
+
+---
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading2.svg){width="450"}
+:::
+
+
+# 강의 요약
+
+## 강의 요약
+
+
+--- 
+
+::: {.r-stack style="margin-top: 200px;"}
+![](logo/loading3.svg){width="450"}
+:::
+
+
+
