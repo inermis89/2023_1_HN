@@ -5,7 +5,7 @@ author: Minseop Lee(Gachon Cocone School, Gachon University)
 date: ""
 format:
   revealjs: 
-    slide-number: true 
+    slide-number: false
     # scrollable: true
     chalkboard: 
       buttons: false
@@ -14,6 +14,8 @@ format:
     logo: logo/logo2.png
     footer: 인간 본성의 과학적 이해
 ---
+
+# 중간시험 설명 
 
 ## 중간시험 설명
 
@@ -376,7 +378,7 @@ format:
 :::
 
 
-# 적응/부산물 논의와 문화진화이론
+# 적응/부산물 논의와 문화의 관점
 
 ## 적응/부산물 논의의 필요성
 
