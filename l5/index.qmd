@@ -239,7 +239,7 @@ page 91 Volume 14 on Shelf 3 of Wall 4 of Hexagon: 1qkpe4ww...
 ## Exploitation vs. Exploration{auto-animate="true"}
 
 ::: incremental
-- **exploitation** : 현재의 정보로 최선을 hill climbing 등 최선을 다해 최적값을 찾는 활동 
+- **exploitation** : 현재의 정보로 hill climbing 등 최선을 다해 최적값을 찾는 활동 
 - **exploration** : 정보를 모으기 위해서 실험적인 행동을 하는 것
 :::
 
@@ -250,7 +250,7 @@ page 91 Volume 14 on Shelf 3 of Wall 4 of Hexagon: 1qkpe4ww...
 
 ## Exploitation vs. Exploration{auto-animate="true"}
 
-- **exploitation** : 현재의 정보로 최선을 hill climbing 등 최선을 다해 최적값을 찾는 활동 
+- **exploitation** : 현재의 정보로 hill climbing 등 최선을 다해 최적값을 찾는 활동 
 - **exploration** : 정보를 모으기 위해서 실험적인 행동을 하는 것
 
 
@@ -261,7 +261,7 @@ page 91 Volume 14 on Shelf 3 of Wall 4 of Hexagon: 1qkpe4ww...
 
 ## Exploitation vs. Exploration{auto-animate="true"}
 
-- **exploitation** : 현재의 정보로 최선을 hill climbing 등 최선을 다해 최적값을 찾는 활동 
+- **exploitation** : 현재의 정보로 hill climbing 등 최선을 다해 최적값을 찾는 활동 
 - **exploration** : 정보를 모으기 위해서 실험적인 행동을 하는 것
 
 
