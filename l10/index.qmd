@@ -271,7 +271,7 @@ format:
 
 ::: {.r-stack}
 상리공생 
-::상
+:::
 
 
 ## 관계의 변화 {auto-animate="true"}
